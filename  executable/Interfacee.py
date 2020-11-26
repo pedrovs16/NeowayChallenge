@@ -55,8 +55,6 @@ class Interface:
                 elif event == 'compilar':
                     for uf in values:
                         if values[uf] is True:
-                            print(f'----------------Pegando dados de {uf}----------------')
-
                             num = ft.StateChoice(uf, num, values['arquivonome'])
                 print('JSON formado.')
 

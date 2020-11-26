@@ -7,7 +7,7 @@ import json
 
 
 def StateChoice(uf, num, archiveName):
-
+    print(f'----------------Pegando dados de {uf}----------------')
     # Para deixar o navegador invisível
 
     options = webdriver.ChromeOptions()
@@ -81,16 +81,8 @@ def StateChoice(uf, num, archiveName):
         for line in info[1:]:
             line = line[0:(line.find('-0') + 16)]
             line = line.replace(' a ', ';')
-            line = line.replace(' 0', '##0')
-            line = line.replace(' 1', '##1')
-            line = line.replace(' 2', '##2')
-            line = line.replace(' 3', '##3')
-            line = line.replace(' 4', '##4')
-            line = line.replace(' 5', '##5')
-            line = line.replace(' 6', '##6')
-            line = line.replace(' 7', '##7')
-            line = line.replace(' 8', '##8')
-            line = line.replace(' 9', '##9')
+            for x in range(0,9):
+                line = line.replace(f' {x}', f'##{x}')
             line = line.replace(';', ' a ')
             line = line.split('##')
 
