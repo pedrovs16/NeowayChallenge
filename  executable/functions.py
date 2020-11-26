@@ -70,14 +70,14 @@ def StateChoice(uf, num, archiveName):
             driver.quit()
             break
 
-        tmptabela = 1
+        tmptabela = 1  # A primeira página é diferente das outras para encontrar por isso trocar de 2 para 1
 
         # Modelando os dados para serem manipulados
 
         info = info.text
         info = info.split('\n')
 
-        conditional = False
+        conditional = False  # Para medir se é repetido ou não o municipio
         for line in info[1:]:
             line = line[0:(line.find('-0') + 16)]
             line = line.replace(' a ', ';')
@@ -116,7 +116,6 @@ def StateChoice(uf, num, archiveName):
                         json.dump(dictionary, f)
                         f.write('\n')
                 print(dictionary)
-            conditional = False
         try:
 
             # Trocar de página
