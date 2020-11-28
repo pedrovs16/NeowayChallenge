@@ -15,15 +15,17 @@
   5. Now the dates are being collected
   <img alt="IMG4" title="IMG4"  src="IMG4.png">
 <hr>
-  6. When appear "JSON formado." mean that the file was created and you can see in app folder
+  6. When appear "JSON formado." mean that the file was created, you can see in app folder and the data will be like this
   <img alt="IMG5" title="IMG5"  src="IMG5.png">
   <img alt="IMG6" title="IMG6"  src="IMG6.png">
+   ```json
+{"uf": "RS", "id": 1, "localidade": "Acegu\u00e1", "faixa-de-cep": "96445-000 a 96449-999"}
+{"uf": "RS", "id": 2, "localidade": "\u00c1gua Santa", "faixa-de-cep": "99965-000 a 99969-999"}
+```
+ 
 <hr>
 
  ## How to use with IDLE
  
  
- ```json
-{"uf": "RS", "id": 1, "localidade": "Acegu\u00e1", "faixa-de-cep": "96445-000 a 96449-999"}
-{"uf": "RS", "id": 2, "localidade": "\u00c1gua Santa", "faixa-de-cep": "99965-000 a 99969-999"}
-```
+
