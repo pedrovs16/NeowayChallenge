@@ -17,6 +17,6 @@
 <hr>
   6. When appear "JSON formado." mean that the file was created and you can see in app folder
   <img alt="IMG5" title="IMG5"  src="IMG5.png">
+  <img alt="IMG6" title="IMG6"  src="IMG6.png">
 <hr>
-<img alt="IMG6" title="IMG6"  src="IMG6.png">
-<hr>
+## How to use with IDLE
