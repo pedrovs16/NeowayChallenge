@@ -1,0 +1,792 @@
+{"uf": "RS", "id": 1, "localidade": "Acegu\u00e1", "faixa-de-cep": "96445-000 a 96449-999"}
+{"uf": "RS", "id": 2, "localidade": "\u00c1gua Santa", "faixa-de-cep": "99965-000 a 99969-999"}
+{"uf": "RS", "id": 3, "localidade": "Agudo", "faixa-de-cep": "96540-000 a 96544-999"}
+{"uf": "RS", "id": 4, "localidade": "Ajuricaba", "faixa-de-cep": "98750-000 a 98757-999"}
+{"uf": "RS", "id": 5, "localidade": "Alecrim", "faixa-de-cep": "98950-000 a 98954-999"}
+{"uf": "RS", "id": 6, "localidade": "Alegrete", "faixa-de-cep": "97540-001 a 97559-999"}
+{"uf": "RS", "id": 7, "localidade": "Alegria", "faixa-de-cep": "98905-000 a 98909-999"}
+{"uf": "RS", "id": 8, "localidade": "Almirante Tamandar\u00e9 do Sul", "faixa-de-cep": "99523-000 a 99524-999"}
+{"uf": "RS", "id": 9, "localidade": "Alpestre", "faixa-de-cep": "98480-000 a 98499-999"}
+{"uf": "RS", "id": 10, "localidade": "Alto Alegre", "faixa-de-cep": "99430-000 a 99434-999"}
+{"uf": "RS", "id": 11, "localidade": "Alto Feliz", "faixa-de-cep": "95773-000 a 95774-999"}
+{"uf": "RS", "id": 12, "localidade": "Alvorada", "faixa-de-cep": "94800-001 a 94899-999"}
+{"uf": "RS", "id": 13, "localidade": "Amaral Ferrador", "faixa-de-cep": "96635-000 a 96639-999"}
+{"uf": "RS", "id": 14, "localidade": "Ametista do Sul", "faixa-de-cep": "98465-000 a 98469-999"}
+{"uf": "RS", "id": 15, "localidade": "Andr\u00e9 da Rocha", "faixa-de-cep": "95310-000 a 95314-999"}
+{"uf": "RS", "id": 16, "localidade": "Anta Gorda", "faixa-de-cep": "95980-000 a 95984-999"}
+{"uf": "RS", "id": 17, "localidade": "Ant\u00f4nio Prado", "faixa-de-cep": "95250-000 a 95254-999"}
+{"uf": "RS", "id": 18, "localidade": "Arambar\u00e9", "faixa-de-cep": "96178-000 a 96179-999"}
+{"uf": "RS", "id": 19, "localidade": "Araric\u00e1", "faixa-de-cep": "93880-000 a 93889-999"}
+{"uf": "RS", "id": 20, "localidade": "Aratiba", "faixa-de-cep": "99770-000 a 99789-999"}
+{"uf": "RS", "id": 21, "localidade": "Arroio do Meio", "faixa-de-cep": "95940-000 a 95944-999"}
+{"uf": "RS", "id": 22, "localidade": "Arroio do Padre", "faixa-de-cep": "96155-000 a 96159-999"}
+{"uf": "RS", "id": 23, "localidade": "Arroio do Sal", "faixa-de-cep": "95585-000 a 95587-999"}
+{"uf": "RS", "id": 24, "localidade": "Arroio do Tigre", "faixa-de-cep": "96950-000 a 96989-999"}
+{"uf": "RS", "id": 25, "localidade": "Arroio dos Ratos", "faixa-de-cep": "96740-000 a 96744-999"}
+{"uf": "RS", "id": 26, "localidade": "Arroio Grande", "faixa-de-cep": "96330-000 a 96359-999"}
+{"uf": "RS", "id": 27, "localidade": "Arvorezinha", "faixa-de-cep": "95995-000 a 95996-999"}
+{"uf": "RS", "id": 28, "localidade": "Augusto Pestana", "faixa-de-cep": "98740-000 a 98749-999"}
+{"uf": "RS", "id": 29, "localidade": "\u00c1urea", "faixa-de-cep": "99835-000 a 99837-999"}
+{"uf": "RS", "id": 30, "localidade": "Bag\u00e9", "faixa-de-cep": "96400-001 a 96444-999"}
+{"uf": "RS", "id": 31, "localidade": "Balne\u00e1rio Pinhal", "faixa-de-cep": "95599-000 a 95599-999"}
+{"uf": "RS", "id": 32, "localidade": "Bar\u00e3o", "faixa-de-cep": "95730-000 a 95734-999"}
+{"uf": "RS", "id": 33, "localidade": "Bar\u00e3o de Cotegipe", "faixa-de-cep": "99740-000 a 99749-999"}
+{"uf": "RS", "id": 34, "localidade": "Bar\u00e3o do Triunfo", "faixa-de-cep": "96735-000 a 96739-999"}
+{"uf": "RS", "id": 35, "localidade": "Barra do Guarita", "faixa-de-cep": "98530-000 a 98534-999"}
+{"uf": "RS", "id": 36, "localidade": "Barra do Quara\u00ed", "faixa-de-cep": "97538-000 a 97539-999"}
+{"uf": "RS", "id": 37, "localidade": "Barra do Ribeiro", "faixa-de-cep": "92870-000 a 92899-999"}
+{"uf": "RS", "id": 38, "localidade": "Barra do Rio Azul", "faixa-de-cep": "99795-000 a 99799-999"}
+{"uf": "RS", "id": 39, "localidade": "Barra Funda", "faixa-de-cep": "99585-000 a 99589-999"}
+{"uf": "RS", "id": 40, "localidade": "Barrac\u00e3o", "faixa-de-cep": "95370-000 a 95379-999"}
+{"uf": "RS", "id": 41, "localidade": "Barros Cassal", "faixa-de-cep": "99360-000 a 99369-999"}
+{"uf": "RS", "id": 42, "localidade": "Benjamin Constant do Sul", "faixa-de-cep": "99650-000 a 99654-999"}
+{"uf": "RS", "id": 43, "localidade": "Bento Gon\u00e7alves", "faixa-de-cep": "95700-001 a 95714-999"}
+{"uf": "RS", "id": 44, "localidade": "Boa Vista das Miss\u00f5es", "faixa-de-cep": "98335-000 a 98337-999"}
+{"uf": "RS", "id": 45, "localidade": "Boa Vista do Buric\u00e1", "faixa-de-cep": "98918-000 a 98918-999"}
+{"uf": "RS", "id": 46, "localidade": "Boa Vista do Cadeado", "faixa-de-cep": "98118-000 a 98119-999"}
+{"uf": "RS", "id": 47, "localidade": "Boa Vista do Incra", "faixa-de-cep": "98120-000 a 98124-999"}
+{"uf": "RS", "id": 48, "localidade": "Boa Vista do Sul", "faixa-de-cep": "95727-000 a 95729-999"}
+{"uf": "RS", "id": 49, "localidade": "Bom Jesus", "faixa-de-cep": "95290-000 a 95299-999"}
+{"uf": "RS", "id": 50, "localidade": "Bom Princ\u00edpio", "faixa-de-cep": "95765-000 a 95767-999"}
+{"uf": "RS", "id": 51, "localidade": "Bom Progresso", "faixa-de-cep": "98575-000 a 98579-999"}
+{"uf": "RS", "id": 52, "localidade": "Bom Retiro do Sul", "faixa-de-cep": "95870-000 a 95874-999"}
+{"uf": "RS", "id": 53, "localidade": "Boqueir\u00e3o do Le\u00e3o", "faixa-de-cep": "95920-000 a 95922-999"}
+{"uf": "RS", "id": 54, "localidade": "Bossoroca", "faixa-de-cep": "97850-000 a 97869-999"}
+{"uf": "RS", "id": 55, "localidade": "Bozano", "faixa-de-cep": "98733-000 a 98734-999"}
+{"uf": "RS", "id": 56, "localidade": "Braga", "faixa-de-cep": "98560-000 a 98569-999"}
+{"uf": "RS", "id": 57, "localidade": "Brochier", "faixa-de-cep": "95790-000 a 95792-999"}
+{"uf": "RS", "id": 58, "localidade": "Buti\u00e1", "faixa-de-cep": "96750-000 a 96754-999"}
+{"uf": "RS", "id": 59, "localidade": "Ca\u00e7apava do Sul", "faixa-de-cep": "96570-000 a 96589-999"}
+{"uf": "RS", "id": 60, "localidade": "Cacequi", "faixa-de-cep": "97450-000 a 97499-999"}
+{"uf": "RS", "id": 61, "localidade": "Cachoeira do Sul", "faixa-de-cep": "96500-001 a 96529-999"}
+{"uf": "RS", "id": 62, "localidade": "Cachoeirinha", "faixa-de-cep": "94900-001 a 94999-999"}
+{"uf": "RS", "id": 63, "localidade": "Cacique Doble", "faixa-de-cep": "99860-000 a 99869-999"}
+{"uf": "RS", "id": 64, "localidade": "Caibat\u00e9", "faixa-de-cep": "97930-000 a 97934-999"}
+{"uf": "RS", "id": 65, "localidade": "Cai\u00e7ara", "faixa-de-cep": "98440-000 a 98449-999"}
+{"uf": "RS", "id": 66, "localidade": "Camaqu\u00e3", "faixa-de-cep": "96780-001 a 96799-999"}
+{"uf": "RS", "id": 67, "localidade": "Camargo", "faixa-de-cep": "99165-000 a 99169-999"}
+{"uf": "RS", "id": 68, "localidade": "Cambar\u00e1 do Sul", "faixa-de-cep": "95480-000 a 95499-999"}
+{"uf": "RS", "id": 69, "localidade": "Campestre da Serra", "faixa-de-cep": "95255-000 a 95259-999"}
+{"uf": "RS", "id": 70, "localidade": "Campina das Miss\u00f5es", "faixa-de-cep": "98975-000 a 98979-999"}
+{"uf": "RS", "id": 71, "localidade": "Campinas do Sul", "faixa-de-cep": "99660-000 a 99664-999"}
+{"uf": "RS", "id": 72, "localidade": "Campo Bom", "faixa-de-cep": "93700-000 a 93799-999"}
+{"uf": "RS", "id": 73, "localidade": "Campo Novo", "faixa-de-cep": "98570-000 a 98574-999"}
+{"uf": "RS", "id": 74, "localidade": "Campos Borges", "faixa-de-cep": "99435-000 a 99439-999"}
+{"uf": "RS", "id": 75, "localidade": "Candel\u00e1ria", "faixa-de-cep": "96930-000 a 96949-999"}
+{"uf": "RS", "id": 76, "localidade": "C\u00e2ndido God\u00f3i", "faixa-de-cep": "98970-000 a 98974-999"}
+{"uf": "RS", "id": 77, "localidade": "Candiota", "faixa-de-cep": "96495-000 a 96499-999"}
+{"uf": "RS", "id": 78, "localidade": "Canela", "faixa-de-cep": "95680-000 a 95689-999"}
+{"uf": "RS", "id": 79, "localidade": "Cangu\u00e7u", "faixa-de-cep": "96600-000 a 96609-999"}
+{"uf": "RS", "id": 80, "localidade": "Canoas", "faixa-de-cep": "92000-001 a 92479-999"}
+{"uf": "RS", "id": 81, "localidade": "Canudos do Vale", "faixa-de-cep": "95933-000 a 95934-999"}
+{"uf": "RS", "id": 82, "localidade": "Cap\u00e3o Bonito do Sul", "faixa-de-cep": "95308-000 a 95309-999"}
+{"uf": "RS", "id": 83, "localidade": "Cap\u00e3o da Canoa", "faixa-de-cep": "95555-000 a 95559-999"}
+{"uf": "RS", "id": 84, "localidade": "Cap\u00e3o do Cip\u00f3", "faixa-de-cep": "97753-000 a 97754-999"}
+{"uf": "RS", "id": 85, "localidade": "Cap\u00e3o do Le\u00e3o", "faixa-de-cep": "96160-000 a 96169-999"}
+{"uf": "RS", "id": 86, "localidade": "Capela de Santana", "faixa-de-cep": "95745-000 a 95747-999"}
+{"uf": "RS", "id": 87, "localidade": "Capit\u00e3o", "faixa-de-cep": "95935-000 a 95936-999"}
+{"uf": "RS", "id": 88, "localidade": "Capivari do Sul", "faixa-de-cep": "95552-000 a 95554-999"}
+{"uf": "RS", "id": 89, "localidade": "Cara\u00e1", "faixa-de-cep": "95515-000 a 95519-999"}
+{"uf": "RS", "id": 90, "localidade": "Carazinho", "faixa-de-cep": "99500-000 a 99522-999"}
+{"uf": "RS", "id": 91, "localidade": "Carlos Barbosa", "faixa-de-cep": "95185-000 a 95189-999"}
+{"uf": "RS", "id": 92, "localidade": "Carlos Gomes", "faixa-de-cep": "99825-000 a 99829-999"}
+{"uf": "RS", "id": 93, "localidade": "Casca", "faixa-de-cep": "99260-000 a 99264-999"}
+{"uf": "RS", "id": 94, "localidade": "Caseiros", "faixa-de-cep": "95315-000 a 95319-999"}
+{"uf": "RS", "id": 95, "localidade": "Catu\u00edpe", "faixa-de-cep": "98770-000 a 98779-999"}
+{"uf": "RS", "id": 96, "localidade": "Caxias do Sul", "faixa-de-cep": "95000-001 a 95149-999"}
+{"uf": "RS", "id": 97, "localidade": "Centen\u00e1rio", "faixa-de-cep": "99838-000 a 99839-999"}
+{"uf": "RS", "id": 98, "localidade": "Cerrito", "faixa-de-cep": "96395-000 a 96399-999"}
+{"uf": "RS", "id": 99, "localidade": "Cerro Branco", "faixa-de-cep": "96535-000 a 96539-999"}
+{"uf": "RS", "id": 100, "localidade": "Cerro Grande", "faixa-de-cep": "98340-000 a 98344-999"}
+{"uf": "RS", "id": 101, "localidade": "Cerro Grande do Sul", "faixa-de-cep": "96770-000 a 96779-999"}
+{"uf": "RS", "id": 102, "localidade": "Cerro Largo", "faixa-de-cep": "97900-000 a 97919-999"}
+{"uf": "RS", "id": 103, "localidade": "Chapada", "faixa-de-cep": "99530-000 a 99559-999"}
+{"uf": "RS", "id": 104, "localidade": "Charqueadas", "faixa-de-cep": "96745-000 a 96749-999"}
+{"uf": "RS", "id": 105, "localidade": "Charrua", "faixa-de-cep": "99960-000 a 99964-999"}
+{"uf": "RS", "id": 106, "localidade": "Chiapetta", "faixa-de-cep": "98760-000 a 98764-999"}
+{"uf": "RS", "id": 107, "localidade": "Chu\u00ed", "faixa-de-cep": "96255-000 a 96269-999"}
+{"uf": "RS", "id": 108, "localidade": "Chuvisca", "faixa-de-cep": "96193-000 a 96194-999"}
+{"uf": "RS", "id": 109, "localidade": "Cidreira", "faixa-de-cep": "95595-000 a 95598-999"}
+{"uf": "RS", "id": 110, "localidade": "Cir\u00edaco", "faixa-de-cep": "99970-000 a 99979-999"}
+{"uf": "RS", "id": 111, "localidade": "Colinas", "faixa-de-cep": "95895-000 a 95899-999"}
+{"uf": "RS", "id": 112, "localidade": "Colorado", "faixa-de-cep": "99460-000 a 99469-999"}
+{"uf": "RS", "id": 113, "localidade": "Condor", "faixa-de-cep": "98290-000 a 98299-999"}
+{"uf": "RS", "id": 114, "localidade": "Constantina", "faixa-de-cep": "99680-000 a 99686-999"}
+{"uf": "RS", "id": 115, "localidade": "Coqueiro Baixo", "faixa-de-cep": "95955-000 a 95959-999"}
+{"uf": "RS", "id": 116, "localidade": "Coqueiros do Sul", "faixa-de-cep": "99528-000 a 99529-999"}
+{"uf": "RS", "id": 117, "localidade": "Coronel Barros", "faixa-de-cep": "98735-000 a 98739-999"}
+{"uf": "RS", "id": 118, "localidade": "Coronel Bicaco", "faixa-de-cep": "98580-000 a 98589-999"}
+{"uf": "RS", "id": 119, "localidade": "Coronel Pilar", "faixa-de-cep": "95726-000 a 95726-999"}
+{"uf": "RS", "id": 120, "localidade": "Cotipor\u00e3", "faixa-de-cep": "95335-000 a 95339-999"}
+{"uf": "RS", "id": 121, "localidade": "Coxilha", "faixa-de-cep": "99145-000 a 99149-999"}
+{"uf": "RS", "id": 122, "localidade": "Crissiumal", "faixa-de-cep": "98640-000 a 98669-999"}
+{"uf": "RS", "id": 123, "localidade": "Cristal", "faixa-de-cep": "96195-000 a 96199-999"}
+{"uf": "RS", "id": 124, "localidade": "Cristal do Sul", "faixa-de-cep": "98368-000 a 98369-999"}
+{"uf": "RS", "id": 125, "localidade": "Cruz Alta", "faixa-de-cep": "98000-001 a 98059-999"}
+{"uf": "RS", "id": 126, "localidade": "Cruzaltense", "faixa-de-cep": "99665-000 a 99669-999"}
+{"uf": "RS", "id": 127, "localidade": "Cruzeiro do Sul", "faixa-de-cep": "95930-000 a 95932-999"}
+{"uf": "RS", "id": 128, "localidade": "David Canabarro", "faixa-de-cep": "99980-000 a 99989-999"}
+{"uf": "RS", "id": 129, "localidade": "Derrubadas", "faixa-de-cep": "98528-000 a 98529-999"}
+{"uf": "RS", "id": 130, "localidade": "Dezesseis de Novembro", "faixa-de-cep": "97845-000 a 97849-999"}
+{"uf": "RS", "id": 131, "localidade": "Dilermando de Aguiar", "faixa-de-cep": "97180-000 a 97184-999"}
+{"uf": "RS", "id": 132, "localidade": "Dois Irm\u00e3os", "faixa-de-cep": "93950-000 a 93989-999"}
+{"uf": "RS", "id": 133, "localidade": "Dois Irm\u00e3os das Miss\u00f5es", "faixa-de-cep": "98385-000 a 98389-999"}
+{"uf": "RS", "id": 134, "localidade": "Dois Lajeados", "faixa-de-cep": "99220-000 a 99239-999"}
+{"uf": "RS", "id": 135, "localidade": "Dom Feliciano", "faixa-de-cep": "96190-000 a 96192-999"}
+{"uf": "RS", "id": 136, "localidade": "Dom Pedrito", "faixa-de-cep": "96450-000 a 96459-999"}
+{"uf": "RS", "id": 137, "localidade": "Dom Pedro de Alc\u00e2ntara", "faixa-de-cep": "95568-000 a 95571-999"}
+{"uf": "RS", "id": 138, "localidade": "Dona Francisca", "faixa-de-cep": "97280-000 a 97299-999"}
+{"uf": "RS", "id": 139, "localidade": "Doutor Maur\u00edcio Cardoso", "faixa-de-cep": "98925-000 a 98929-999"}
+{"uf": "RS", "id": 140, "localidade": "Doutor Ricardo", "faixa-de-cep": "95967-000 a 95969-999"}
+{"uf": "RS", "id": 141, "localidade": "Eldorado do Sul", "faixa-de-cep": "92990-000 a 92999-999"}
+{"uf": "RS", "id": 142, "localidade": "Encantado", "faixa-de-cep": "95960-000 a 95964-999"}
+{"uf": "RS", "id": 143, "localidade": "Encruzilhada do Sul", "faixa-de-cep": "96610-000 a 96634-999"}
+{"uf": "RS", "id": 144, "localidade": "Engenho Velho", "faixa-de-cep": "99698-000 a 99699-999"}
+{"uf": "RS", "id": 145, "localidade": "Entre Rios do Sul", "faixa-de-cep": "99645-000 a 99649-999"}
+{"uf": "RS", "id": 146, "localidade": "Entre-Iju\u00eds", "faixa-de-cep": "98855-000 a 98859-999"}
+{"uf": "RS", "id": 147, "localidade": "Erebango", "faixa-de-cep": "99920-000 a 99924-999"}
+{"uf": "RS", "id": 148, "localidade": "Erechim", "faixa-de-cep": "99700-001 a 99717-999"}
+{"uf": "RS", "id": 149, "localidade": "Ernestina", "faixa-de-cep": "99140-000 a 99144-999"}
+{"uf": "RS", "id": 150, "localidade": "Erval Grande", "faixa-de-cep": "99750-000 a 99759-999"}
+{"uf": "RS", "id": 151, "localidade": "Erval Seco", "faixa-de-cep": "98390-000 a 98399-999"}
+{"uf": "RS", "id": 152, "localidade": "Esmeralda", "faixa-de-cep": "95380-000 a 95389-999"}
+{"uf": "RS", "id": 153, "localidade": "Esperan\u00e7a do Sul", "faixa-de-cep": "98635-000 a 98639-999"}
+{"uf": "RS", "id": 154, "localidade": "Espumoso", "faixa-de-cep": "99400-000 a 99429-999"}
+{"uf": "RS", "id": 155, "localidade": "Esta\u00e7\u00e3o", "faixa-de-cep": "99930-000 a 99939-999"}
+{"uf": "RS", "id": 156, "localidade": "Est\u00e2ncia Velha", "faixa-de-cep": "93600-001 a 93699-999"}
+{"uf": "RS", "id": 157, "localidade": "Esteio", "faixa-de-cep": "93250-001 a 93299-999"}
+{"uf": "RS", "id": 158, "localidade": "Estrela", "faixa-de-cep": "95880-000 a 95884-999"}
+{"uf": "RS", "id": 159, "localidade": "Estrela Velha", "faixa-de-cep": "96990-000 a 96999-999"}
+{"uf": "RS", "id": 160, "localidade": "Eug\u00eanio de Castro", "faixa-de-cep": "98860-000 a 98864-999"}
+{"uf": "RS", "id": 161, "localidade": "Fagundes Varela", "faixa-de-cep": "95333-000 a 95333-999"}
+{"uf": "RS", "id": 162, "localidade": "Farroupilha", "faixa-de-cep": "95170-001 a 95184-999"}
+{"uf": "RS", "id": 163, "localidade": "Faxinal do Soturno", "faixa-de-cep": "97220-000 a 97229-999"}
+{"uf": "RS", "id": 164, "localidade": "Faxinalzinho", "faixa-de-cep": "99655-000 a 99659-999"}
+{"uf": "RS", "id": 165, "localidade": "Fazenda Vilanova", "faixa-de-cep": "95875-000 a 95879-999"}
+{"uf": "RS", "id": 166, "localidade": "Feliz", "faixa-de-cep": "95770-000 a 95772-999"}
+{"uf": "RS", "id": 167, "localidade": "Flores da Cunha", "faixa-de-cep": "95270-000 a 95274-999"}
+{"uf": "RS", "id": 168, "localidade": "Floriano Peixoto", "faixa-de-cep": "99910-000 a 99919-999"}
+{"uf": "RS", "id": 169, "localidade": "Fontoura Xavier", "faixa-de-cep": "99370-000 a 99379-999"}
+{"uf": "RS", "id": 170, "localidade": "Formigueiro", "faixa-de-cep": "97210-000 a 97219-999"}
+{"uf": "RS", "id": 171, "localidade": "Forquetinha", "faixa-de-cep": "95937-000 a 95939-999"}
+{"uf": "RS", "id": 172, "localidade": "Fortaleza dos Valos", "faixa-de-cep": "98125-000 a 98129-999"}
+{"uf": "RS", "id": 173, "localidade": "Frederico Westphalen", "faixa-de-cep": "98400-000 a 98409-999"}
+{"uf": "RS", "id": 174, "localidade": "Garibaldi", "faixa-de-cep": "95720-000 a 95725-999"}
+{"uf": "RS", "id": 175, "localidade": "Garruchos", "faixa-de-cep": "97690-000 a 97699-999"}
+{"uf": "RS", "id": 176, "localidade": "Gaurama", "faixa-de-cep": "99830-000 a 99834-999"}
+{"uf": "RS", "id": 177, "localidade": "General C\u00e2mara", "faixa-de-cep": "95820-000 a 95832-999"}
+{"uf": "RS", "id": 178, "localidade": "Gentil", "faixa-de-cep": "99160-000 a 99164-999"}
+{"uf": "RS", "id": 179, "localidade": "Get\u00falio Vargas", "faixa-de-cep": "99900-000 a 99909-999"}
+{"uf": "RS", "id": 180, "localidade": "Giru\u00e1", "faixa-de-cep": "98870-000 a 98894-999"}
+{"uf": "RS", "id": 181, "localidade": "Glorinha", "faixa-de-cep": "94380-000 a 94399-999"}
+{"uf": "RS", "id": 182, "localidade": "Gramado", "faixa-de-cep": "95670-000 a 95679-999"}
+{"uf": "RS", "id": 183, "localidade": "Gramado dos Loureiros", "faixa-de-cep": "99605-000 a 99609-999"}
+{"uf": "RS", "id": 184, "localidade": "Gramado Xavier", "faixa-de-cep": "96875-000 a 96877-999"}
+{"uf": "RS", "id": 185, "localidade": "Gravata\u00ed", "faixa-de-cep": "94000-001 a 94379-999"}
+{"uf": "RS", "id": 186, "localidade": "Guabiju", "faixa-de-cep": "95355-000 a 95359-999"}
+{"uf": "RS", "id": 187, "localidade": "Gua\u00edba", "faixa-de-cep": "92500-001 a 92849-999"}
+{"uf": "RS", "id": 188, "localidade": "Guapor\u00e9", "faixa-de-cep": "99200-000 a 99214-999"}
+{"uf": "RS", "id": 189, "localidade": "Guarani das Miss\u00f5es", "faixa-de-cep": "97950-000 a 97959-999"}
+{"uf": "RS", "id": 190, "localidade": "Harmonia", "faixa-de-cep": "95785-000 a 95789-999"}
+{"uf": "RS", "id": 191, "localidade": "Herval", "faixa-de-cep": "96310-000 a 96329-999"}
+{"uf": "RS", "id": 192, "localidade": "Herveiras", "faixa-de-cep": "96888-000 a 96889-999"}
+{"uf": "RS", "id": 193, "localidade": "Horizontina", "faixa-de-cep": "98920-000 a 98924-999"}
+{"uf": "RS", "id": 194, "localidade": "Hulha Negra", "faixa-de-cep": "96460-000 a 96469-999"}
+{"uf": "RS", "id": 195, "localidade": "Humait\u00e1", "faixa-de-cep": "98670-000 a 98674-999"}
+{"uf": "RS", "id": 196, "localidade": "Ibarama", "faixa-de-cep": "96925-000 a 96929-999"}
+{"uf": "RS", "id": 197, "localidade": "Ibia\u00e7\u00e1", "faixa-de-cep": "99940-000 a 99949-999"}
+{"uf": "RS", "id": 198, "localidade": "Ibiraiaras", "faixa-de-cep": "95305-000 a 95307-999"}
+{"uf": "RS", "id": 199, "localidade": "Ibirapuit\u00e3", "faixa-de-cep": "99320-000 a 99329-999"}
+{"uf": "RS", "id": 200, "localidade": "Ibirub\u00e1", "faixa-de-cep": "98200-000 a 98229-999"}
+{"uf": "RS", "id": 201, "localidade": "Igrejinha", "faixa-de-cep": "95650-000 a 95659-999"}
+{"uf": "RS", "id": 202, "localidade": "Iju\u00ed", "faixa-de-cep": "98700-000 a 98732-999"}
+{"uf": "RS", "id": 203, "localidade": "Il\u00f3polis", "faixa-de-cep": "95990-000 a 95994-999"}
+{"uf": "RS", "id": 204, "localidade": "Imb\u00e9", "faixa-de-cep": "95625-000 a 95629-999"}
+{"uf": "RS", "id": 205, "localidade": "Imigrante", "faixa-de-cep": "95885-000 a 95889-999"}
+{"uf": "RS", "id": 206, "localidade": "Independ\u00eancia", "faixa-de-cep": "98915-000 a 98917-999"}
+{"uf": "RS", "id": 207, "localidade": "Inhacor\u00e1", "faixa-de-cep": "98765-000 a 98769-999"}
+{"uf": "RS", "id": 208, "localidade": "Ip\u00ea", "faixa-de-cep": "95240-000 a 95249-999"}
+{"uf": "RS", "id": 209, "localidade": "Ipiranga do Sul", "faixa-de-cep": "99925-000 a 99929-999"}
+{"uf": "RS", "id": 210, "localidade": "Ira\u00ed", "faixa-de-cep": "98460-000 a 98464-999"}
+{"uf": "RS", "id": 211, "localidade": "Itaara", "faixa-de-cep": "97185-000 a 97189-999"}
+{"uf": "RS", "id": 212, "localidade": "Itacurubi", "faixa-de-cep": "97685-000 a 97689-999"}
+{"uf": "RS", "id": 213, "localidade": "Itapuca", "faixa-de-cep": "95997-000 a 95999-999"}
+{"uf": "RS", "id": 214, "localidade": "Itaqui", "faixa-de-cep": "97650-000 a 97669-999"}
+{"uf": "RS", "id": 215, "localidade": "Itati", "faixa-de-cep": "95538-000 a 95539-999"}
+{"uf": "RS", "id": 216, "localidade": "Itatiba do Sul", "faixa-de-cep": "99760-000 a 99769-999"}
+{"uf": "RS", "id": 217, "localidade": "Ivor\u00e1", "faixa-de-cep": "98160-000 a 98169-999"}
+{"uf": "RS", "id": 218, "localidade": "Ivoti", "faixa-de-cep": "93900-000 a 93939-999"}
+{"uf": "RS", "id": 219, "localidade": "Jaboticaba", "faixa-de-cep": "98350-000 a 98359-999"}
+{"uf": "RS", "id": 220, "localidade": "Jacuizinho", "faixa-de-cep": "99457-000 a 99459-999"}
+{"uf": "RS", "id": 221, "localidade": "Jacutinga", "faixa-de-cep": "99730-000 a 99734-999"}
+{"uf": "RS", "id": 222, "localidade": "Jaguar\u00e3o", "faixa-de-cep": "96300-000 a 96309-999"}
+{"uf": "RS", "id": 223, "localidade": "Jaguari", "faixa-de-cep": "97760-000 a 97769-999"}
+{"uf": "RS", "id": 224, "localidade": "Jaquirana", "faixa-de-cep": "95420-000 a 95479-999"}
+{"uf": "RS", "id": 225, "localidade": "Jari", "faixa-de-cep": "98175-000 a 98179-999"}
+{"uf": "RS", "id": 226, "localidade": "J\u00f3ia", "faixa-de-cep": "98180-000 a 98199-999"}
+{"uf": "RS", "id": 227, "localidade": "J\u00falio de Castilhos", "faixa-de-cep": "98130-000 a 98139-999"}
+{"uf": "RS", "id": 228, "localidade": "Lagoa Bonita do Sul", "faixa-de-cep": "96920-000 a 96924-999"}
+{"uf": "RS", "id": 229, "localidade": "Lagoa dos Tr\u00eas Cantos", "faixa-de-cep": "99495-000 a 99499-999"}
+{"uf": "RS", "id": 230, "localidade": "Lagoa Vermelha", "faixa-de-cep": "95300-000 a 95304-999"}
+{"uf": "RS", "id": 231, "localidade": "Lago\u00e3o", "faixa-de-cep": "99340-000 a 99344-999"}
+{"uf": "RS", "id": 232, "localidade": "Lajeado", "faixa-de-cep": "95900-001 a 95914-999"}
+{"uf": "RS", "id": 233, "localidade": "Lajeado do Bugre", "faixa-de-cep": "98320-000 a 98322-999"}
+{"uf": "RS", "id": 234, "localidade": "Lavras do Sul", "faixa-de-cep": "97390-000 a 97399-999"}
+{"uf": "RS", "id": 235, "localidade": "Liberato Salzano", "faixa-de-cep": "99690-000 a 99697-999"}
+{"uf": "RS", "id": 236, "localidade": "Lindolfo Collor", "faixa-de-cep": "93940-000 a 93944-999"}
+{"uf": "RS", "id": 237, "localidade": "Linha Nova", "faixa-de-cep": "95768-000 a 95769-999"}
+{"uf": "RS", "id": 238, "localidade": "Ma\u00e7ambar\u00e1", "faixa-de-cep": "97645-000 a 97649-999"}
+{"uf": "RS", "id": 239, "localidade": "Machadinho", "faixa-de-cep": "99880-000 a 99889-999"}
+{"uf": "RS", "id": 240, "localidade": "Mampituba", "faixa-de-cep": "95572-000 a 95574-999"}
+{"uf": "RS", "id": 241, "localidade": "Manoel Viana", "faixa-de-cep": "97640-000 a 97644-999"}
+{"uf": "RS", "id": 242, "localidade": "Maquin\u00e9", "faixa-de-cep": "95530-000 a 95534-999"}
+{"uf": "RS", "id": 243, "localidade": "Marat\u00e1", "faixa-de-cep": "95793-000 a 95794-999"}
+{"uf": "RS", "id": 244, "localidade": "Marau", "faixa-de-cep": "99150-000 a 99154-999"}
+{"uf": "RS", "id": 245, "localidade": "Marcelino Ramos", "faixa-de-cep": "99800-000 a 99809-999"}
+{"uf": "RS", "id": 246, "localidade": "Mariana Pimentel", "faixa-de-cep": "92900-000 a 92989-999"}
+{"uf": "RS", "id": 247, "localidade": "Mariano Moro", "faixa-de-cep": "99790-000 a 99794-999"}
+{"uf": "RS", "id": 248, "localidade": "Marques de Souza", "faixa-de-cep": "95923-000 a 95924-999"}
+{"uf": "RS", "id": 249, "localidade": "Mata", "faixa-de-cep": "97410-000 a 97417-999"}
+{"uf": "RS", "id": 250, "localidade": "Mato Castelhano", "faixa-de-cep": "99180-000 a 99189-999"}
+{"uf": "RS", "id": 251, "localidade": "Mato Leit\u00e3o", "faixa-de-cep": "95835-000 a 95839-999"}
+{"uf": "RS", "id": 252, "localidade": "Mato Queimado", "faixa-de-cep": "97935-000 a 97939-999"}
+{"uf": "RS", "id": 253, "localidade": "Maximiliano de Almeida", "faixa-de-cep": "99890-000 a 99894-999"}
+{"uf": "RS", "id": 254, "localidade": "Minas do Le\u00e3o", "faixa-de-cep": "96755-000 a 96759-999"}
+{"uf": "RS", "id": 255, "localidade": "Miragua\u00ed", "faixa-de-cep": "98540-000 a 98549-999"}
+{"uf": "RS", "id": 256, "localidade": "Montauri", "faixa-de-cep": "99255-000 a 99259-999"}
+{"uf": "RS", "id": 257, "localidade": "Monte Alegre dos Campos", "faixa-de-cep": "95236-000 a 95239-999"}
+{"uf": "RS", "id": 258, "localidade": "Monte Belo do Sul", "faixa-de-cep": "95718-000 a 95719-999"}
+{"uf": "RS", "id": 259, "localidade": "Montenegro", "faixa-de-cep": "95780-000 a 95782-999"}
+{"uf": "RS", "id": 260, "localidade": "Morma\u00e7o", "faixa-de-cep": "99315-000 a 99319-999"}
+{"uf": "RS", "id": 261, "localidade": "Morrinhos do Sul", "faixa-de-cep": "95577-000 a 95579-999"}
+{"uf": "RS", "id": 262, "localidade": "Morro Redondo", "faixa-de-cep": "96150-000 a 96154-999"}
+{"uf": "RS", "id": 263, "localidade": "Morro Reuter", "faixa-de-cep": "93990-000 a 93994-999"}
+{"uf": "RS", "id": 264, "localidade": "Mostardas", "faixa-de-cep": "96270-000 a 96289-999"}
+{"uf": "RS", "id": 265, "localidade": "Mu\u00e7um", "faixa-de-cep": "95970-000 a 95971-999"}
+{"uf": "RS", "id": 266, "localidade": "Muitos Cap\u00f5es", "faixa-de-cep": "95230-000 a 95235-999"}
+{"uf": "RS", "id": 267, "localidade": "Muliterno", "faixa-de-cep": "99990-000 a 99999-999"}
+{"uf": "RS", "id": 268, "localidade": "N\u00e3o-Me-Toque", "faixa-de-cep": "99470-000 a 99489-999"}
+{"uf": "RS", "id": 269, "localidade": "Nicolau Vergueiro", "faixa-de-cep": "99175-000 a 99179-999"}
+{"uf": "RS", "id": 270, "localidade": "Nonoai", "faixa-de-cep": "99600-000 a 99604-999"}
+{"uf": "RS", "id": 271, "localidade": "Nova Alvorada", "faixa-de-cep": "95985-000 a 95989-999"}
+{"uf": "RS", "id": 272, "localidade": "Nova Ara\u00e7\u00e1", "faixa-de-cep": "95350-000 a 95354-999"}
+{"uf": "RS", "id": 273, "localidade": "Nova Bassano", "faixa-de-cep": "95340-000 a 95344-999"}
+{"uf": "RS", "id": 274, "localidade": "Nova Boa Vista", "faixa-de-cep": "99580-000 a 99584-999"}
+{"uf": "RS", "id": 275, "localidade": "Nova Br\u00e9scia", "faixa-de-cep": "95950-000 a 95954-999"}
+{"uf": "RS", "id": 276, "localidade": "Nova Candel\u00e1ria", "faixa-de-cep": "98919-000 a 98919-999"}
+{"uf": "RS", "id": 277, "localidade": "Nova Esperan\u00e7a do Sul", "faixa-de-cep": "97770-000 a 97799-999"}
+{"uf": "RS", "id": 278, "localidade": "Nova Hartz", "faixa-de-cep": "93890-000 a 93899-999"}
+{"uf": "RS", "id": 279, "localidade": "Nova P\u00e1dua", "faixa-de-cep": "95275-000 a 95279-999"}
+{"uf": "RS", "id": 280, "localidade": "Nova Palma", "faixa-de-cep": "97250-000 a 97279-999"}
+{"uf": "RS", "id": 281, "localidade": "Nova Petr\u00f3polis", "faixa-de-cep": "95150-000 a 95165-999"}
+{"uf": "RS", "id": 282, "localidade": "Nova Prata", "faixa-de-cep": "95320-000 a 95324-999"}
+{"uf": "RS", "id": 283, "localidade": "Nova Ramada", "faixa-de-cep": "98758-000 a 98759-999"}
+{"uf": "RS", "id": 284, "localidade": "Nova Roma do Sul", "faixa-de-cep": "95260-000 a 95269-999"}
+{"uf": "RS", "id": 285, "localidade": "Nova Santa Rita", "faixa-de-cep": "92480-000 a 92499-999"}
+{"uf": "RS", "id": 286, "localidade": "Novo Barreiro", "faixa-de-cep": "98338-000 a 98339-999"}
+{"uf": "RS", "id": 287, "localidade": "Novo Cabrais", "faixa-de-cep": "96545-000 a 96569-999"}
+{"uf": "RS", "id": 288, "localidade": "Novo Hamburgo", "faixa-de-cep": "93300-001 a 93599-999"}
+{"uf": "RS", "id": 289, "localidade": "Novo Machado", "faixa-de-cep": "98955-000 a 98957-999"}
+{"uf": "RS", "id": 290, "localidade": "Novo Tiradentes", "faixa-de-cep": "98370-000 a 98379-999"}
+{"uf": "RS", "id": 291, "localidade": "Novo Xingu", "faixa-de-cep": "99687-000 a 99689-999"}
+{"uf": "RS", "id": 292, "localidade": "Os\u00f3rio", "faixa-de-cep": "95520-000 a 95529-999"}
+{"uf": "RS", "id": 293, "localidade": "Paim Filho", "faixa-de-cep": "99850-000 a 99854-999"}
+{"uf": "RS", "id": 294, "localidade": "Palmares do Sul", "faixa-de-cep": "95540-000 a 95551-999"}
+{"uf": "RS", "id": 295, "localidade": "Palmeira das Miss\u00f5es", "faixa-de-cep": "98300-000 a 98319-999"}
+{"uf": "RS", "id": 296, "localidade": "Palmitinho", "faixa-de-cep": "98430-000 a 98434-999"}
+{"uf": "RS", "id": 297, "localidade": "Panambi", "faixa-de-cep": "98280-000 a 98289-999"}
+{"uf": "RS", "id": 298, "localidade": "Pantano Grande", "faixa-de-cep": "96690-000 a 96699-999"}
+{"uf": "RS", "id": 299, "localidade": "Para\u00ed", "faixa-de-cep": "95360-000 a 95364-999"}
+{"uf": "RS", "id": 300, "localidade": "Para\u00edso do Sul", "faixa-de-cep": "96530-000 a 96534-999"}
+{"uf": "RS", "id": 301, "localidade": "Pareci Novo", "faixa-de-cep": "95783-000 a 95784-999"}
+{"uf": "RS", "id": 302, "localidade": "Parob\u00e9", "faixa-de-cep": "95630-000 a 95649-999"}
+{"uf": "RS", "id": 303, "localidade": "Passa Sete", "faixa-de-cep": "96908-000 a 96909-999"}
+{"uf": "RS", "id": 304, "localidade": "Passo do Sobrado", "faixa-de-cep": "96685-000 a 96689-999"}
+{"uf": "RS", "id": 305, "localidade": "Passo Fundo", "faixa-de-cep": "99000-001 a 99139-999"}
+{"uf": "RS", "id": 306, "localidade": "Paulo Bento", "faixa-de-cep": "99718-000 a 99719-999"}
+{"uf": "RS", "id": 307, "localidade": "Paverama", "faixa-de-cep": "95865-000 a 95869-999"}
+{"uf": "RS", "id": 308, "localidade": "Pedras Altas", "faixa-de-cep": "96487-000 a 96489-999"}
+{"uf": "RS", "id": 309, "localidade": "Pedro Os\u00f3rio", "faixa-de-cep": "96360-000 a 96394-999"}
+{"uf": "RS", "id": 310, "localidade": "Peju\u00e7ara", "faixa-de-cep": "98270-000 a 98279-999"}
+{"uf": "RS", "id": 311, "localidade": "Pelotas", "faixa-de-cep": "96000-001 a 96147-999"}
+{"uf": "RS", "id": 312, "localidade": "Picada Caf\u00e9", "faixa-de-cep": "95166-000 a 95169-999"}
+{"uf": "RS", "id": 313, "localidade": "Pinhal", "faixa-de-cep": "98345-000 a 98349-999"}
+{"uf": "RS", "id": 314, "localidade": "Pinhal da Serra", "faixa-de-cep": "95390-000 a 95399-999"}
+{"uf": "RS", "id": 315, "localidade": "Pinhal Grande", "faixa-de-cep": "98150-000 a 98159-999"}
+{"uf": "RS", "id": 316, "localidade": "Pinheirinho do Vale", "faixa-de-cep": "98435-000 a 98439-999"}
+{"uf": "RS", "id": 317, "localidade": "Pinheiro Machado", "faixa-de-cep": "96470-000 a 96486-999"}
+{"uf": "RS", "id": 318, "localidade": "Pinto Bandeira", "faixa-de-cep": "95717-000 a 95717-999"}
+{"uf": "RS", "id": 319, "localidade": "Pirap\u00f3", "faixa-de-cep": "97885-000 a 97899-999"}
+{"uf": "RS", "id": 320, "localidade": "Piratini", "faixa-de-cep": "96490-000 a 96494-999"}
+{"uf": "RS", "id": 321, "localidade": "Planalto", "faixa-de-cep": "98470-000 a 98479-999"}
+{"uf": "RS", "id": 322, "localidade": "Po\u00e7o das Antas", "faixa-de-cep": "95740-000 a 95744-999"}
+{"uf": "RS", "id": 323, "localidade": "Pont\u00e3o", "faixa-de-cep": "99190-000 a 99199-999"}
+{"uf": "RS", "id": 324, "localidade": "Ponte Preta", "faixa-de-cep": "99735-000 a 99739-999"}
+{"uf": "RS", "id": 325, "localidade": "Port\u00e3o", "faixa-de-cep": "93180-000 a 93199-999"}
+{"uf": "RS", "id": 326, "localidade": "Porto Alegre", "faixa-de-cep": "90000-001 a 91999-999"}
+{"uf": "RS", "id": 327, "localidade": "Porto Lucena", "faixa-de-cep": "98980-000 a 98984-999"}
+{"uf": "RS", "id": 328, "localidade": "Porto Mau\u00e1", "faixa-de-cep": "98947-000 a 98949-999"}
+{"uf": "RS", "id": 329, "localidade": "Porto Vera Cruz", "faixa-de-cep": "98985-000 a 98994-999"}
+{"uf": "RS", "id": 330, "localidade": "Porto Xavier", "faixa-de-cep": "98995-000 a 98999-999"}
+{"uf": "RS", "id": 331, "localidade": "Pouso Novo", "faixa-de-cep": "95945-000 a 95947-999"}
+{"uf": "RS", "id": 332, "localidade": "Presidente Lucena", "faixa-de-cep": "93945-000 a 93949-999"}
+{"uf": "RS", "id": 333, "localidade": "Progresso", "faixa-de-cep": "95925-000 a 95929-999"}
+{"uf": "RS", "id": 334, "localidade": "Prot\u00e1sio Alves", "faixa-de-cep": "95345-000 a 95349-999"}
+{"uf": "RS", "id": 335, "localidade": "Putinga", "faixa-de-cep": "95975-000 a 95979-999"}
+{"uf": "RS", "id": 336, "localidade": "Quara\u00ed", "faixa-de-cep": "97560-000 a 97569-999"}
+{"uf": "RS", "id": 337, "localidade": "Quatro Irm\u00e3os", "faixa-de-cep": "99720-000 a 99724-999"}
+{"uf": "RS", "id": 338, "localidade": "Quevedos", "faixa-de-cep": "98140-000 a 98149-999"}
+{"uf": "RS", "id": 339, "localidade": "Quinze de Novembro", "faixa-de-cep": "98230-000 a 98239-999"}
+{"uf": "RS", "id": 340, "localidade": "Redentora", "faixa-de-cep": "98550-000 a 98559-999"}
+{"uf": "RS", "id": 341, "localidade": "Relvado", "faixa-de-cep": "95965-000 a 95966-999"}
+{"uf": "RS", "id": 342, "localidade": "Restinga Seca", "faixa-de-cep": "97200-000 a 97209-999"}
+{"uf": "RS", "id": 343, "localidade": "Rio dos \u00cdndios", "faixa-de-cep": "99610-000 a 99614-999"}
+{"uf": "RS", "id": 344, "localidade": "Rio Grande", "faixa-de-cep": "96200-001 a 96224-999"}
+{"uf": "RS", "id": 345, "localidade": "Rio Pardo", "faixa-de-cep": "96640-000 a 96684-999"}
+{"uf": "RS", "id": 346, "localidade": "Riozinho", "faixa-de-cep": "95695-000 a 95699-999"}
+{"uf": "RS", "id": 347, "localidade": "Roca Sales", "faixa-de-cep": "95735-000 a 95739-999"}
+{"uf": "RS", "id": 348, "localidade": "Rodeio Bonito", "faixa-de-cep": "98360-000 a 98367-999"}
+{"uf": "RS", "id": 349, "localidade": "Rolador", "faixa-de-cep": "97843-000 a 97844-999"}
+{"uf": "RS", "id": 350, "localidade": "Rolante", "faixa-de-cep": "95690-000 a 95694-999"}
+{"uf": "RS", "id": 351, "localidade": "Ronda Alta", "faixa-de-cep": "99670-000 a 99674-999"}
+{"uf": "RS", "id": 352, "localidade": "Rondinha", "faixa-de-cep": "99590-000 a 99599-999"}
+{"uf": "RS", "id": 353, "localidade": "Roque Gonzales", "faixa-de-cep": "97970-000 a 97979-999"}
+{"uf": "RS", "id": 354, "localidade": "Ros\u00e1rio do Sul", "faixa-de-cep": "97590-000 a 97609-999"}
+{"uf": "RS", "id": 355, "localidade": "Sagrada Fam\u00edlia", "faixa-de-cep": "98330-000 a 98334-999"}
+{"uf": "RS", "id": 356, "localidade": "Saldanha Marinho", "faixa-de-cep": "98250-000 a 98269-999"}
+{"uf": "RS", "id": 357, "localidade": "Salto do Jacu\u00ed", "faixa-de-cep": "99440-000 a 99449-999"}
+{"uf": "RS", "id": 358, "localidade": "Salvador das Miss\u00f5es", "faixa-de-cep": "97940-000 a 97949-999"}
+{"uf": "RS", "id": 359, "localidade": "Salvador do Sul", "faixa-de-cep": "95750-000 a 95754-999"}
+{"uf": "RS", "id": 360, "localidade": "Sananduva", "faixa-de-cep": "99840-000 a 99849-999"}
+{"uf": "RS", "id": 361, "localidade": "Santa B\u00e1rbara do Sul", "faixa-de-cep": "98240-000 a 98249-999"}
+{"uf": "RS", "id": 362, "localidade": "Santa Cec\u00edlia do Sul", "faixa-de-cep": "99952-000 a 99954-999"}
+{"uf": "RS", "id": 363, "localidade": "Santa Clara do Sul", "faixa-de-cep": "95915-000 a 95917-999"}
+{"uf": "RS", "id": 364, "localidade": "Santa Cruz do Sul", "faixa-de-cep": "96800-001 a 96874-999"}
+{"uf": "RS", "id": 365, "localidade": "Santa Margarida do Sul", "faixa-de-cep": "97335-000 a 97339-999"}
+{"uf": "RS", "id": 366, "localidade": "Santa Maria", "faixa-de-cep": "97000-001 a 97179-999"}
+{"uf": "RS", "id": 367, "localidade": "Santa Maria do Herval", "faixa-de-cep": "93995-000 a 93999-999"}
+{"uf": "RS", "id": 368, "localidade": "Santa Rosa", "faixa-de-cep": "98780-001 a 98799-999"}
+{"uf": "RS", "id": 369, "localidade": "Santa Tereza", "faixa-de-cep": "95715-000 a 95716-999"}
+{"uf": "RS", "id": 370, "localidade": "Santa Vit\u00f3ria do Palmar", "faixa-de-cep": "96230-000 a 96254-999"}
+{"uf": "RS", "id": 371, "localidade": "Santana da Boa Vista", "faixa-de-cep": "96590-000 a 96599-999"}
+{"uf": "RS", "id": 372, "localidade": "Santana do Livramento", "faixa-de-cep": "97570-001 a 97589-999"}
+{"uf": "RS", "id": 373, "localidade": "Santiago", "faixa-de-cep": "97700-001 a 97752-999"}
+{"uf": "RS", "id": 374, "localidade": "Santo \u00c2ngelo", "faixa-de-cep": "98800-001 a 98849-999"}
+{"uf": "RS", "id": 375, "localidade": "Santo Ant\u00f4nio da Patrulha", "faixa-de-cep": "95500-000 a 95514-999"}
+{"uf": "RS", "id": 376, "localidade": "Santo Ant\u00f4nio das Miss\u00f5es", "faixa-de-cep": "97870-000 a 97879-999"}
+{"uf": "RS", "id": 377, "localidade": "Santo Ant\u00f4nio do Palma", "faixa-de-cep": "99265-000 a 99269-999"}
+{"uf": "RS", "id": 378, "localidade": "Santo Ant\u00f4nio do Planalto", "faixa-de-cep": "99525-000 a 99527-999"}
+{"uf": "RS", "id": 379, "localidade": "Santo Augusto", "faixa-de-cep": "98590-000 a 98594-999"}
+{"uf": "RS", "id": 380, "localidade": "Santo Cristo", "faixa-de-cep": "98960-000 a 98969-999"}
+{"uf": "RS", "id": 381, "localidade": "Santo Expedito do Sul", "faixa-de-cep": "99895-000 a 99899-999"}
+{"uf": "RS", "id": 382, "localidade": "S\u00e3o Borja", "faixa-de-cep": "97670-000 a 97684-999"}
+{"uf": "RS", "id": 383, "localidade": "S\u00e3o Domingos do Sul", "faixa-de-cep": "99270-000 a 99289-999"}
+{"uf": "RS", "id": 384, "localidade": "S\u00e3o Francisco de Assis", "faixa-de-cep": "97610-000 a 97639-999"}
+{"uf": "RS", "id": 385, "localidade": "S\u00e3o Francisco de Paula", "faixa-de-cep": "95400-000 a 95419-999"}
+{"uf": "RS", "id": 386, "localidade": "S\u00e3o Gabriel", "faixa-de-cep": "97300-001 a 97334-999"}
+{"uf": "RS", "id": 387, "localidade": "S\u00e3o Jer\u00f4nimo", "faixa-de-cep": "96700-000 a 96734-999"}
+{"uf": "RS", "id": 388, "localidade": "S\u00e3o Jo\u00e3o da Urtiga", "faixa-de-cep": "99855-000 a 99859-999"}
+{"uf": "RS", "id": 389, "localidade": "S\u00e3o Jo\u00e3o do Pol\u00easine", "faixa-de-cep": "97230-000 a 97249-999"}
+{"uf": "RS", "id": 390, "localidade": "S\u00e3o Jorge", "faixa-de-cep": "95365-000 a 95369-999"}
+{"uf": "RS", "id": 391, "localidade": "S\u00e3o Jos\u00e9 das Miss\u00f5es", "faixa-de-cep": "98325-000 a 98329-999"}
+{"uf": "RS", "id": 392, "localidade": "S\u00e3o Jos\u00e9 do Herval", "faixa-de-cep": "99380-000 a 99399-999"}
+{"uf": "RS", "id": 393, "localidade": "S\u00e3o Jos\u00e9 do Hort\u00eancio", "faixa-de-cep": "95755-000 a 95757-999"}
+{"uf": "RS", "id": 394, "localidade": "S\u00e3o Jos\u00e9 do Inhacor\u00e1", "faixa-de-cep": "98958-000 a 98959-999"}
+{"uf": "RS", "id": 395, "localidade": "S\u00e3o Jos\u00e9 do Norte", "faixa-de-cep": "96225-000 a 96229-999"}
+{"uf": "RS", "id": 396, "localidade": "S\u00e3o Jos\u00e9 do Ouro", "faixa-de-cep": "99870-000 a 99877-999"}
+{"uf": "RS", "id": 397, "localidade": "S\u00e3o Jos\u00e9 do Sul", "faixa-de-cep": "95748-000 a 95749-999"}
+{"uf": "RS", "id": 398, "localidade": "S\u00e3o Jos\u00e9 dos Ausentes", "faixa-de-cep": "95280-000 a 95289-999"}
+{"uf": "RS", "id": 399, "localidade": "S\u00e3o Leopoldo", "faixa-de-cep": "93000-001 a 93179-999"}
+{"uf": "RS", "id": 400, "localidade": "S\u00e3o Louren\u00e7o do Sul", "faixa-de-cep": "96170-000 a 96177-999"}
+{"uf": "RS", "id": 401, "localidade": "S\u00e3o Luiz Gonzaga", "faixa-de-cep": "97800-000 a 97842-999"}
+{"uf": "RS", "id": 402, "localidade": "S\u00e3o Marcos", "faixa-de-cep": "95190-000 a 95199-999"}
+{"uf": "RS", "id": 403, "localidade": "S\u00e3o Martinho", "faixa-de-cep": "98690-000 a 98699-999"}
+{"uf": "RS", "id": 404, "localidade": "S\u00e3o Martinho da Serra", "faixa-de-cep": "97190-000 a 97194-999"}
+{"uf": "RS", "id": 405, "localidade": "S\u00e3o Miguel das Miss\u00f5es", "faixa-de-cep": "98865-000 a 98869-999"}
+{"uf": "RS", "id": 406, "localidade": "S\u00e3o Nicolau", "faixa-de-cep": "97880-000 a 97884-999"}
+{"uf": "RS", "id": 407, "localidade": "S\u00e3o Paulo das Miss\u00f5es", "faixa-de-cep": "97980-000 a 97999-999"}
+{"uf": "RS", "id": 408, "localidade": "S\u00e3o Pedro da Serra", "faixa-de-cep": "95758-000 a 95759-999"}
+{"uf": "RS", "id": 409, "localidade": "S\u00e3o Pedro das Miss\u00f5es", "faixa-de-cep": "98323-000 a 98324-999"}
+{"uf": "RS", "id": 410, "localidade": "S\u00e3o Pedro do Buti\u00e1", "faixa-de-cep": "97920-000 a 97929-999"}
+{"uf": "RS", "id": 411, "localidade": "S\u00e3o Pedro do Sul", "faixa-de-cep": "97400-000 a 97409-999"}
+{"uf": "RS", "id": 412, "localidade": "S\u00e3o Sebasti\u00e3o do Ca\u00ed", "faixa-de-cep": "95760-000 a 95764-999"}
+{"uf": "RS", "id": 413, "localidade": "S\u00e3o Sep\u00e9", "faixa-de-cep": "97340-000 a 97384-999"}
+{"uf": "RS", "id": 414, "localidade": "S\u00e3o Valentim", "faixa-de-cep": "99640-000 a 99644-999"}
+{"uf": "RS", "id": 415, "localidade": "S\u00e3o Valentim do Sul", "faixa-de-cep": "99240-000 a 99249-999"}
+{"uf": "RS", "id": 416, "localidade": "S\u00e3o Val\u00e9rio do Sul", "faixa-de-cep": "98595-000 a 98599-999"}
+{"uf": "RS", "id": 417, "localidade": "S\u00e3o Vendelino", "faixa-de-cep": "95795-000 a 95799-999"}
+{"uf": "RS", "id": 418, "localidade": "S\u00e3o Vicente do Sul", "faixa-de-cep": "97420-000 a 97449-999"}
+{"uf": "RS", "id": 419, "localidade": "Sapiranga", "faixa-de-cep": "93800-001 a 93879-999"}
+{"uf": "RS", "id": 420, "localidade": "Sapucaia do Sul", "faixa-de-cep": "93200-001 a 93249-999"}
+{"uf": "RS", "id": 421, "localidade": "Sarandi", "faixa-de-cep": "99560-000 a 99579-999"}
+{"uf": "RS", "id": 422, "localidade": "Seberi", "faixa-de-cep": "98380-000 a 98384-999"}
+{"uf": "RS", "id": 423, "localidade": "Sede Nova", "faixa-de-cep": "98675-000 a 98679-999"}
+{"uf": "RS", "id": 424, "localidade": "Segredo", "faixa-de-cep": "96910-000 a 96919-999"}
+{"uf": "RS", "id": 425, "localidade": "Selbach", "faixa-de-cep": "99450-000 a 99456-999"}
+{"uf": "RS", "id": 426, "localidade": "Senador Salgado Filho", "faixa-de-cep": "98895-000 a 98897-999"}
+{"uf": "RS", "id": 427, "localidade": "Sentinela do Sul", "faixa-de-cep": "96765-000 a 96769-999"}
+{"uf": "RS", "id": 428, "localidade": "Serafina Corr\u00eaa", "faixa-de-cep": "99250-000 a 99254-999"}
+{"uf": "RS", "id": 429, "localidade": "S\u00e9rio", "faixa-de-cep": "95918-000 a 95919-999"}
+{"uf": "RS", "id": 430, "localidade": "Sert\u00e3o", "faixa-de-cep": "99170-000 a 99174-999"}
+{"uf": "RS", "id": 431, "localidade": "Sert\u00e3o Santana", "faixa-de-cep": "92850-000 a 92869-999"}
+{"uf": "RS", "id": 432, "localidade": "Sete de Setembro", "faixa-de-cep": "97960-000 a 97969-999"}
+{"uf": "RS", "id": 433, "localidade": "Severiano de Almeida", "faixa-de-cep": "99810-000 a 99819-999"}
+{"uf": "RS", "id": 434, "localidade": "Silveira Martins", "faixa-de-cep": "97195-000 a 97199-999"}
+{"uf": "RS", "id": 435, "localidade": "Sinimbu", "faixa-de-cep": "96890-000 a 96899-999"}
+{"uf": "RS", "id": 436, "localidade": "Sobradinho", "faixa-de-cep": "96900-000 a 96907-999"}
+{"uf": "RS", "id": 437, "localidade": "Soledade", "faixa-de-cep": "99300-000 a 99314-999"}
+{"uf": "RS", "id": 438, "localidade": "Taba\u00ed", "faixa-de-cep": "95863-000 a 95864-999"}
+{"uf": "RS", "id": 439, "localidade": "Tapejara", "faixa-de-cep": "99950-000 a 99951-999"}
+{"uf": "RS", "id": 440, "localidade": "Tapera", "faixa-de-cep": "99490-000 a 99494-999"}
+{"uf": "RS", "id": 441, "localidade": "Tapes", "faixa-de-cep": "96760-000 a 96764-999"}
+{"uf": "RS", "id": 442, "localidade": "Taquara", "faixa-de-cep": "95600-001 a 95624-999"}
+{"uf": "RS", "id": 443, "localidade": "Taquari", "faixa-de-cep": "95860-000 a 95862-999"}
+{"uf": "RS", "id": 444, "localidade": "Taquaru\u00e7u do Sul", "faixa-de-cep": "98410-000 a 98414-999"}
+{"uf": "RS", "id": 445, "localidade": "Tavares", "faixa-de-cep": "96290-000 a 96299-999"}
+{"uf": "RS", "id": 446, "localidade": "Tenente Portela", "faixa-de-cep": "98500-000 a 98527-999"}
+{"uf": "RS", "id": 447, "localidade": "Terra de Areia", "faixa-de-cep": "95535-000 a 95537-999"}
+{"uf": "RS", "id": 448, "localidade": "Teut\u00f4nia", "faixa-de-cep": "95890-000 a 95892-999"}
+{"uf": "RS", "id": 449, "localidade": "Tio Hugo", "faixa-de-cep": "99345-000 a 99349-999"}
+{"uf": "RS", "id": 450, "localidade": "Tiradentes do Sul", "faixa-de-cep": "98680-000 a 98689-999"}
+{"uf": "RS", "id": 451, "localidade": "Toropi", "faixa-de-cep": "97418-000 a 97419-999"}
+{"uf": "RS", "id": 452, "localidade": "Torres", "faixa-de-cep": "95560-000 a 95567-999"}
+{"uf": "RS", "id": 453, "localidade": "Tramanda\u00ed", "faixa-de-cep": "95590-000 a 95594-999"}
+{"uf": "RS", "id": 454, "localidade": "Travesseiro", "faixa-de-cep": "95948-000 a 95949-999"}
+{"uf": "RS", "id": 455, "localidade": "Tr\u00eas Arroios", "faixa-de-cep": "99725-000 a 99729-999"}
+{"uf": "RS", "id": 456, "localidade": "Tr\u00eas Cachoeiras", "faixa-de-cep": "95580-000 a 95584-999"}
+{"uf": "RS", "id": 457, "localidade": "Tr\u00eas Coroas", "faixa-de-cep": "95660-000 a 95669-999"}
+{"uf": "RS", "id": 458, "localidade": "Tr\u00eas de Maio", "faixa-de-cep": "98910-000 a 98914-999"}
+{"uf": "RS", "id": 459, "localidade": "Tr\u00eas Forquilhas", "faixa-de-cep": "95575-000 a 95576-999"}
+{"uf": "RS", "id": 460, "localidade": "Tr\u00eas Palmeiras", "faixa-de-cep": "99675-000 a 99679-999"}
+{"uf": "RS", "id": 461, "localidade": "Tr\u00eas Passos", "faixa-de-cep": "98600-000 a 98634-999"}
+{"uf": "RS", "id": 462, "localidade": "Trindade do Sul", "faixa-de-cep": "99615-000 a 99639-999"}
+{"uf": "RS", "id": 463, "localidade": "Triunfo", "faixa-de-cep": "95840-000 a 95859-999"}
+{"uf": "RS", "id": 464, "localidade": "Tucunduva", "faixa-de-cep": "98930-000 a 98939-999"}
+{"uf": "RS", "id": 465, "localidade": "Tunas", "faixa-de-cep": "99330-000 a 99339-999"}
+{"uf": "RS", "id": 466, "localidade": "Tupanci do Sul", "faixa-de-cep": "99878-000 a 99879-999"}
+{"uf": "RS", "id": 467, "localidade": "Tupanciret\u00e3", "faixa-de-cep": "98170-000 a 98174-999"}
+{"uf": "RS", "id": 468, "localidade": "Tupandi", "faixa-de-cep": "95775-000 a 95777-999"}
+{"uf": "RS", "id": 469, "localidade": "Tuparendi", "faixa-de-cep": "98940-000 a 98946-999"}
+{"uf": "RS", "id": 470, "localidade": "Turu\u00e7u", "faixa-de-cep": "96148-000 a 96149-999"}
+{"uf": "RS", "id": 471, "localidade": "Ubiretama", "faixa-de-cep": "98898-000 a 98899-999"}
+{"uf": "RS", "id": 472, "localidade": "Uni\u00e3o da Serra", "faixa-de-cep": "99215-000 a 99219-999"}
+{"uf": "RS", "id": 473, "localidade": "Unistalda", "faixa-de-cep": "97755-000 a 97759-999"}
+{"uf": "RS", "id": 474, "localidade": "Uruguaiana", "faixa-de-cep": "97500-001 a 97537-999"}
+{"uf": "RS", "id": 475, "localidade": "Vacaria", "faixa-de-cep": "95200-001 a 95229-999"}
+{"uf": "RS", "id": 476, "localidade": "Vale do Sol", "faixa-de-cep": "96878-000 a 96879-999"}
+{"uf": "RS", "id": 477, "localidade": "Vale Real", "faixa-de-cep": "95778-000 a 95779-999"}
+{"uf": "RS", "id": 478, "localidade": "Vale Verde", "faixa-de-cep": "95833-000 a 95834-999"}
+{"uf": "RS", "id": 479, "localidade": "Vanini", "faixa-de-cep": "99290-000 a 99299-999"}
+{"uf": "RS", "id": 480, "localidade": "Ven\u00e2ncio Aires", "faixa-de-cep": "95800-000 a 95819-999"}
+{"uf": "RS", "id": 481, "localidade": "Vera Cruz", "faixa-de-cep": "96880-000 a 96887-999"}
+{"uf": "RS", "id": 482, "localidade": "Veran\u00f3polis", "faixa-de-cep": "95330-000 a 95332-999"}
+{"uf": "RS", "id": 483, "localidade": "Vespasiano Correa", "faixa-de-cep": "95972-000 a 95974-999"}
+{"uf": "RS", "id": 484, "localidade": "Viadutos", "faixa-de-cep": "99820-000 a 99824-999"}
+{"uf": "RS", "id": 485, "localidade": "Viam\u00e3o", "faixa-de-cep": "94400-001 a 94799-999"}
+{"uf": "RS", "id": 486, "localidade": "Vicente Dutra", "faixa-de-cep": "98450-000 a 98459-999"}
+{"uf": "RS", "id": 487, "localidade": "Victor Graeff", "faixa-de-cep": "99350-000 a 99359-999"}
+{"uf": "RS", "id": 488, "localidade": "Vila Flores", "faixa-de-cep": "95334-000 a 95334-999"}
+{"uf": "RS", "id": 489, "localidade": "Vila L\u00e2ngaro", "faixa-de-cep": "99955-000 a 99959-999"}
+{"uf": "RS", "id": 490, "localidade": "Vila Maria", "faixa-de-cep": "99155-000 a 99159-999"}
+{"uf": "RS", "id": 491, "localidade": "Vila Nova do Sul", "faixa-de-cep": "97385-000 a 97389-999"}
+{"uf": "RS", "id": 492, "localidade": "Vista Alegre", "faixa-de-cep": "98415-000 a 98429-999"}
+{"uf": "RS", "id": 493, "localidade": "Vista Alegre do Prata", "faixa-de-cep": "95325-000 a 95329-999"}
+{"uf": "RS", "id": 494, "localidade": "Vista Ga\u00facha", "faixa-de-cep": "98535-000 a 98539-999"}
+{"uf": "RS", "id": 495, "localidade": "Vit\u00f3ria das Miss\u00f5es", "faixa-de-cep": "98850-000 a 98854-999"}
+{"uf": "RS", "id": 496, "localidade": "Westfalia", "faixa-de-cep": "95893-000 a 95894-999"}
+{"uf": "RS", "id": 497, "localidade": "Xangri-L\u00e1", "faixa-de-cep": "95588-000 a 95589-999"}
+{"uf": "SC", "id": 498, "localidade": "Abdon Batista", "faixa-de-cep": "89636-000 a 89637-999"}
+{"uf": "SC", "id": 499, "localidade": "Abelardo Luz", "faixa-de-cep": "89830-000 a 89831-999"}
+{"uf": "SC", "id": 500, "localidade": "Agrol\u00e2ndia", "faixa-de-cep": "88420-000 a 88429-999"}
+{"uf": "SC", "id": 501, "localidade": "Agron\u00f4mica", "faixa-de-cep": "89188-000 a 89189-999"}
+{"uf": "SC", "id": 502, "localidade": "\u00c1gua Doce", "faixa-de-cep": "89654-000 a 89659-999"}
+{"uf": "SC", "id": 503, "localidade": "\u00c1guas de Chapec\u00f3", "faixa-de-cep": "89883-000 a 89884-999"}
+{"uf": "SC", "id": 504, "localidade": "\u00c1guas Frias", "faixa-de-cep": "89843-000 a 89844-999"}
+{"uf": "SC", "id": 505, "localidade": "\u00c1guas Mornas", "faixa-de-cep": "88150-000 a 88159-999"}
+{"uf": "SC", "id": 506, "localidade": "Alfredo Wagner", "faixa-de-cep": "88450-000 a 88459-999"}
+{"uf": "SC", "id": 507, "localidade": "Alto Bela Vista", "faixa-de-cep": "89730-000 a 89734-999"}
+{"uf": "SC", "id": 508, "localidade": "Anchieta", "faixa-de-cep": "89970-000 a 89979-999"}
+{"uf": "SC", "id": 509, "localidade": "Angelina", "faixa-de-cep": "88460-000 a 88469-999"}
+{"uf": "SC", "id": 510, "localidade": "Anita Garibaldi", "faixa-de-cep": "88590-000 a 88597-999"}
+{"uf": "SC", "id": 511, "localidade": "Anit\u00e1polis", "faixa-de-cep": "88475-000 a 88484-999"}
+{"uf": "SC", "id": 512, "localidade": "Ant\u00f4nio Carlos", "faixa-de-cep": "88180-000 a 88189-999"}
+{"uf": "SC", "id": 513, "localidade": "Api\u00fana", "faixa-de-cep": "89135-000 a 89135-999"}
+{"uf": "SC", "id": 514, "localidade": "Arabut\u00e3", "faixa-de-cep": "89740-000 a 89744-999"}
+{"uf": "SC", "id": 515, "localidade": "Araquari", "faixa-de-cep": "89245-000 a 89246-999"}
+{"uf": "SC", "id": 516, "localidade": "Ararangu\u00e1", "faixa-de-cep": "88900-001 a 88913-999"}
+{"uf": "SC", "id": 517, "localidade": "Armaz\u00e9m", "faixa-de-cep": "88740-000 a 88744-999"}
+{"uf": "SC", "id": 518, "localidade": "Arroio Trinta", "faixa-de-cep": "89590-000 a 89594-999"}
+{"uf": "SC", "id": 519, "localidade": "Arvoredo", "faixa-de-cep": "89778-000 a 89779-999"}
+{"uf": "SC", "id": 520, "localidade": "Ascurra", "faixa-de-cep": "89138-000 a 89139-999"}
+{"uf": "SC", "id": 521, "localidade": "Atalanta", "faixa-de-cep": "88410-000 a 88419-999"}
+{"uf": "SC", "id": 522, "localidade": "Aurora", "faixa-de-cep": "89186-000 a 89187-999"}
+{"uf": "SC", "id": 523, "localidade": "Balne\u00e1rio Arroio do Silva", "faixa-de-cep": "88914-000 a 88914-999"}
+{"uf": "SC", "id": 524, "localidade": "Balne\u00e1rio Barra do Sul", "faixa-de-cep": "89247-000 a 89247-999"}
+{"uf": "SC", "id": 525, "localidade": "Balne\u00e1rio Cambori\u00fa", "faixa-de-cep": "88330-001 a 88339-999"}
+{"uf": "SC", "id": 526, "localidade": "Balne\u00e1rio Gaivota", "faixa-de-cep": "88955-000 a 88959-999"}
+{"uf": "SC", "id": 527, "localidade": "Balne\u00e1rio Pi\u00e7arras", "faixa-de-cep": "88380-000 a 88384-999"}
+{"uf": "SC", "id": 528, "localidade": "Balne\u00e1rio Rinc\u00e3o", "faixa-de-cep": "88828-000 a 88829-999"}
+{"uf": "SC", "id": 529, "localidade": "Bandeirante", "faixa-de-cep": "89905-000 a 89905-999"}
+{"uf": "SC", "id": 530, "localidade": "Barra Bonita", "faixa-de-cep": "89909-000 a 89909-999"}
+{"uf": "SC", "id": 531, "localidade": "Barra Velha", "faixa-de-cep": "88390-000 a 88394-999"}
+{"uf": "SC", "id": 532, "localidade": "Bela Vista do Toldo", "faixa-de-cep": "89478-000 a 89479-999"}
+{"uf": "SC", "id": 533, "localidade": "Belmonte", "faixa-de-cep": "89925-000 a 89929-999"}
+{"uf": "SC", "id": 534, "localidade": "Benedito Novo", "faixa-de-cep": "89124-000 a 89125-999"}
+{"uf": "SC", "id": 535, "localidade": "Bigua\u00e7u", "faixa-de-cep": "88160-001 a 88179-999"}
+{"uf": "SC", "id": 536, "localidade": "Blumenau", "faixa-de-cep": "89000-001 a 89079-999"}
+{"uf": "SC", "id": 537, "localidade": "Boca\u00edna do Sul", "faixa-de-cep": "88538-000 a 88539-999"}
+{"uf": "SC", "id": 538, "localidade": "Bom Jardim da Serra", "faixa-de-cep": "88640-000 a 88649-999"}
+{"uf": "SC", "id": 539, "localidade": "Bom Jesus", "faixa-de-cep": "89824-000 a 89824-999"}
+{"uf": "SC", "id": 540, "localidade": "Bom Jesus do Oeste", "faixa-de-cep": "89873-000 a 89873-999"}
+{"uf": "SC", "id": 541, "localidade": "Bom Retiro", "faixa-de-cep": "88680-000 a 88699-999"}
+{"uf": "SC", "id": 542, "localidade": "Bombinhas", "faixa-de-cep": "88215-000 a 88219-999"}
+{"uf": "SC", "id": 543, "localidade": "Botuver\u00e1", "faixa-de-cep": "88295-000 a 88299-999"}
+{"uf": "SC", "id": 544, "localidade": "Bra\u00e7o do Norte", "faixa-de-cep": "88750-000 a 88759-999"}
+{"uf": "SC", "id": 545, "localidade": "Bra\u00e7o do Trombudo", "faixa-de-cep": "89178-000 a 89179-999"}
+{"uf": "SC", "id": 546, "localidade": "Brun\u00f3polis", "faixa-de-cep": "89634-000 a 89635-999"}
+{"uf": "SC", "id": 547, "localidade": "Brusque", "faixa-de-cep": "88350-001 a 88359-999"}
+{"uf": "SC", "id": 548, "localidade": "Ca\u00e7ador", "faixa-de-cep": "89500-001 a 89514-999"}
+{"uf": "SC", "id": 549, "localidade": "Caibi", "faixa-de-cep": "89888-000 a 89889-999"}
+{"uf": "SC", "id": 550, "localidade": "Calmon", "faixa-de-cep": "89430-000 a 89439-999"}
+{"uf": "SC", "id": 551, "localidade": "Cambori\u00fa", "faixa-de-cep": "88340-001 a 88349-999"}
+{"uf": "SC", "id": 552, "localidade": "Campo Alegre", "faixa-de-cep": "89294-000 a 89294-999"}
+{"uf": "SC", "id": 553, "localidade": "Campo Belo do Sul", "faixa-de-cep": "88580-000 a 88584-999"}
+{"uf": "SC", "id": 554, "localidade": "Campo Er\u00ea", "faixa-de-cep": "89980-000 a 89980-999"}
+{"uf": "SC", "id": 555, "localidade": "Campos Novos", "faixa-de-cep": "89620-000 a 89632-999"}
+{"uf": "SC", "id": 556, "localidade": "Canelinha", "faixa-de-cep": "88230-000 a 88239-999"}
+{"uf": "SC", "id": 557, "localidade": "Canoinhas", "faixa-de-cep": "89460-001 a 89477-999"}
+{"uf": "SC", "id": 558, "localidade": "Cap\u00e3o Alto", "faixa-de-cep": "88548-000 a 88549-999"}
+{"uf": "SC", "id": 559, "localidade": "Capinzal", "faixa-de-cep": "89665-000 a 89666-999"}
+{"uf": "SC", "id": 560, "localidade": "Capivari de Baixo", "faixa-de-cep": "88745-000 a 88749-999"}
+{"uf": "SC", "id": 561, "localidade": "Catanduvas", "faixa-de-cep": "89670-000 a 89674-999"}
+{"uf": "SC", "id": 562, "localidade": "Caxambu do Sul", "faixa-de-cep": "89880-000 a 89881-999"}
+{"uf": "SC", "id": 563, "localidade": "Celso Ramos", "faixa-de-cep": "88598-000 a 88599-999"}
+{"uf": "SC", "id": 564, "localidade": "Cerro Negro", "faixa-de-cep": "88585-000 a 88589-999"}
+{"uf": "SC", "id": 565, "localidade": "Chapad\u00e3o do Lageado", "faixa-de-cep": "88407-000 a 88409-999"}
+{"uf": "SC", "id": 566, "localidade": "Chapec\u00f3", "faixa-de-cep": "89800-001 a 89816-999"}
+{"uf": "SC", "id": 567, "localidade": "Cocal do Sul", "faixa-de-cep": "88845-000 a 88849-999"}
+{"uf": "SC", "id": 568, "localidade": "Conc\u00f3rdia", "faixa-de-cep": "89700-001 a 89729-999"}
+{"uf": "SC", "id": 569, "localidade": "Cordilheira Alta", "faixa-de-cep": "89819-000 a 89819-999"}
+{"uf": "SC", "id": 570, "localidade": "Coronel Freitas", "faixa-de-cep": "89840-000 a 89842-999"}
+{"uf": "SC", "id": 571, "localidade": "Coronel Martins", "faixa-de-cep": "89837-000 a 89837-999"}
+{"uf": "SC", "id": 572, "localidade": "Correia Pinto", "faixa-de-cep": "88535-000 a 88537-999"}
+{"uf": "SC", "id": 573, "localidade": "Corup\u00e1", "faixa-de-cep": "89278-000 a 89279-999"}
+{"uf": "SC", "id": 574, "localidade": "Crici\u00fama", "faixa-de-cep": "88800-001 a 88819-999"}
+{"uf": "SC", "id": 575, "localidade": "Cunha Por\u00e3", "faixa-de-cep": "89890-000 a 89890-999"}
+{"uf": "SC", "id": 576, "localidade": "Cunhata\u00ed", "faixa-de-cep": "89886-000 a 89886-999"}
+{"uf": "SC", "id": 577, "localidade": "Curitibanos", "faixa-de-cep": "89520-000 a 89529-999"}
+{"uf": "SC", "id": 578, "localidade": "Descanso", "faixa-de-cep": "89910-000 a 89914-999"}
+{"uf": "SC", "id": 579, "localidade": "Dion\u00edsio Cerqueira", "faixa-de-cep": "89950-000 a 89969-999"}
+{"uf": "SC", "id": 580, "localidade": "Dona Emma", "faixa-de-cep": "89155-000 a 89156-999"}
+{"uf": "SC", "id": 581, "localidade": "Doutor Pedrinho", "faixa-de-cep": "89126-000 a 89127-999"}
+{"uf": "SC", "id": 582, "localidade": "Entre Rios", "faixa-de-cep": "89862-000 a 89864-999"}
+{"uf": "SC", "id": 583, "localidade": "Ermo", "faixa-de-cep": "88935-000 a 88939-999"}
+{"uf": "SC", "id": 584, "localidade": "Erval Velho", "faixa-de-cep": "89613-000 a 89617-999"}
+{"uf": "SC", "id": 585, "localidade": "Faxinal dos Guedes", "faixa-de-cep": "89694-000 a 89699-999"}
+{"uf": "SC", "id": 586, "localidade": "Flor do Sert\u00e3o", "faixa-de-cep": "89878-000 a 89878-999"}
+{"uf": "SC", "id": 587, "localidade": "Florian\u00f3polis", "faixa-de-cep": "88000-001 a 88099-999"}
+{"uf": "SC", "id": 588, "localidade": "Formosa do Sul", "faixa-de-cep": "89859-000 a 89859-999"}
+{"uf": "SC", "id": 589, "localidade": "Forquilhinha", "faixa-de-cep": "88850-000 a 88859-999"}
+{"uf": "SC", "id": 590, "localidade": "Fraiburgo", "faixa-de-cep": "89580-000 a 89589-999"}
+{"uf": "SC", "id": 591, "localidade": "Frei Rog\u00e9rio", "faixa-de-cep": "89530-000 a 89532-999"}
+{"uf": "SC", "id": 592, "localidade": "Galv\u00e3o", "faixa-de-cep": "89838-000 a 89838-999"}
+{"uf": "SC", "id": 593, "localidade": "Garopaba", "faixa-de-cep": "88495-000 a 88499-999"}
+{"uf": "SC", "id": 594, "localidade": "Garuva", "faixa-de-cep": "89248-000 a 89248-999"}
+{"uf": "SC", "id": 595, "localidade": "Gaspar", "faixa-de-cep": "89110-001 a 89119-999"}
+{"uf": "SC", "id": 596, "localidade": "Governador Celso Ramos", "faixa-de-cep": "88190-000 a 88199-999"}
+{"uf": "SC", "id": 597, "localidade": "Gr\u00e3o Par\u00e1", "faixa-de-cep": "88890-000 a 88899-999"}
+{"uf": "SC", "id": 598, "localidade": "Gravatal", "faixa-de-cep": "88735-000 a 88739-999"}
+{"uf": "SC", "id": 599, "localidade": "Guabiruba", "faixa-de-cep": "88360-000 a 88369-999"}
+{"uf": "SC", "id": 600, "localidade": "Guaraciaba", "faixa-de-cep": "89920-000 a 89924-999"}
+{"uf": "SC", "id": 601, "localidade": "Guaramirim", "faixa-de-cep": "89270-000 a 89274-999"}
+{"uf": "SC", "id": 602, "localidade": "Guaruj\u00e1 do Sul", "faixa-de-cep": "89940-000 a 89949-999"}
+{"uf": "SC", "id": 603, "localidade": "Guatamb\u00fa", "faixa-de-cep": "89817-000 a 89817-999"}
+{"uf": "SC", "id": 604, "localidade": "Herval D'Oeste", "faixa-de-cep": "89610-000 a 89612-999"}
+{"uf": "SC", "id": 605, "localidade": "Ibiam", "faixa-de-cep": "89652-000 a 89653-999"}
+{"uf": "SC", "id": 606, "localidade": "Ibicar\u00e9", "faixa-de-cep": "89640-000 a 89641-999"}
+{"uf": "SC", "id": 607, "localidade": "Ibirama", "faixa-de-cep": "89140-000 a 89144-999"}
+{"uf": "SC", "id": 608, "localidade": "I\u00e7ara", "faixa-de-cep": "88820-000 a 88827-999"}
+{"uf": "SC", "id": 609, "localidade": "Ilhota", "faixa-de-cep": "88320-000 a 88329-999"}
+{"uf": "SC", "id": 610, "localidade": "Imaru\u00ed", "faixa-de-cep": "88770-000 a 88779-999"}
+{"uf": "SC", "id": 611, "localidade": "Imbituba", "faixa-de-cep": "88780-000 a 88789-999"}
+{"uf": "SC", "id": 612, "localidade": "Imbuia", "faixa-de-cep": "88440-000 a 88442-999"}
+{"uf": "SC", "id": 613, "localidade": "Indaial", "faixa-de-cep": "89080-001 a 89099-999"}
+{"uf": "SC", "id": 614, "localidade": "Iomer\u00ea", "faixa-de-cep": "89558-000 a 89559-999"}
+{"uf": "SC", "id": 615, "localidade": "Ipira", "faixa-de-cep": "89669-000 a 89669-999"}
+{"uf": "SC", "id": 616, "localidade": "Ipor\u00e3 do Oeste", "faixa-de-cep": "89899-000 a 89899-999"}
+{"uf": "SC", "id": 617, "localidade": "Ipua\u00e7u", "faixa-de-cep": "89832-000 a 89833-999"}
+{"uf": "SC", "id": 618, "localidade": "Ipumirim", "faixa-de-cep": "89790-000 a 89799-999"}
+{"uf": "SC", "id": 619, "localidade": "Iraceminha", "faixa-de-cep": "89891-000 a 89892-999"}
+{"uf": "SC", "id": 620, "localidade": "Irani", "faixa-de-cep": "89680-000 a 89682-999"}
+{"uf": "SC", "id": 621, "localidade": "Irati", "faixa-de-cep": "89856-000 a 89858-999"}
+{"uf": "SC", "id": 622, "localidade": "Irine\u00f3polis", "faixa-de-cep": "89440-000 a 89459-999"}
+{"uf": "SC", "id": 623, "localidade": "It\u00e1", "faixa-de-cep": "89760-000 a 89764-999"}
+{"uf": "SC", "id": 624, "localidade": "Itai\u00f3polis", "faixa-de-cep": "89340-000 a 89369-999"}
+{"uf": "SC", "id": 625, "localidade": "Itaja\u00ed", "faixa-de-cep": "88300-001 a 88319-999"}
+{"uf": "SC", "id": 626, "localidade": "Itapema", "faixa-de-cep": "88220-000 a 88229-999"}
+{"uf": "SC", "id": 627, "localidade": "Itapiranga", "faixa-de-cep": "89896-000 a 89896-999"}
+{"uf": "SC", "id": 628, "localidade": "Itapo\u00e1", "faixa-de-cep": "89249-000 a 89249-999"}
+{"uf": "SC", "id": 629, "localidade": "Ituporanga", "faixa-de-cep": "88400-000 a 88406-999"}
+{"uf": "SC", "id": 630, "localidade": "Jabor\u00e1", "faixa-de-cep": "89677-000 a 89679-999"}
+{"uf": "SC", "id": 631, "localidade": "Jacinto Machado", "faixa-de-cep": "88950-000 a 88954-999"}
+{"uf": "SC", "id": 632, "localidade": "Jaguaruna", "faixa-de-cep": "88715-000 a 88716-999"}
+{"uf": "SC", "id": 633, "localidade": "Jaragu\u00e1 do Sul", "faixa-de-cep": "89250-001 a 89269-999"}
+{"uf": "SC", "id": 634, "localidade": "Jardin\u00f3polis", "faixa-de-cep": "89848-000 a 89849-999"}
+{"uf": "SC", "id": 635, "localidade": "Joa\u00e7aba", "faixa-de-cep": "89600-000 a 89608-999"}
+{"uf": "SC", "id": 636, "localidade": "Joinville", "faixa-de-cep": "89200-001 a 89239-999"}
+{"uf": "SC", "id": 637, "localidade": "Jos\u00e9 Boiteux", "faixa-de-cep": "89145-000 a 89147-999"}
+{"uf": "SC", "id": 638, "localidade": "Jupi\u00e1", "faixa-de-cep": "89839-000 a 89839-999"}
+{"uf": "SC", "id": 639, "localidade": "Lacerd\u00f3polis", "faixa-de-cep": "89660-000 a 89662-999"}
+{"uf": "SC", "id": 640, "localidade": "Lages", "faixa-de-cep": "88500-001 a 88534-999"}
+{"uf": "SC", "id": 641, "localidade": "Laguna", "faixa-de-cep": "88790-000 a 88797-999"}
+{"uf": "SC", "id": 642, "localidade": "Lajeado Grande", "faixa-de-cep": "89828-000 a 89829-999"}
+{"uf": "SC", "id": 643, "localidade": "Laurentino", "faixa-de-cep": "89170-000 a 89171-999"}
+{"uf": "SC", "id": 644, "localidade": "Lauro M\u00fcller", "faixa-de-cep": "88880-000 a 88889-999"}
+{"uf": "SC", "id": 645, "localidade": "Lebon R\u00e9gis", "faixa-de-cep": "89515-000 a 89517-999"}
+{"uf": "SC", "id": 646, "localidade": "Leoberto Leal", "faixa-de-cep": "88445-000 a 88449-999"}
+{"uf": "SC", "id": 647, "localidade": "Lind\u00f3ia do Sul", "faixa-de-cep": "89735-000 a 89739-999"}
+{"uf": "SC", "id": 648, "localidade": "Lontras", "faixa-de-cep": "89182-000 a 89183-999"}
+{"uf": "SC", "id": 649, "localidade": "Luiz Alves", "faixa-de-cep": "89128-000 a 89129-999"}
+{"uf": "SC", "id": 650, "localidade": "Luzerna", "faixa-de-cep": "89609-000 a 89609-999"}
+{"uf": "SC", "id": 651, "localidade": "Macieira", "faixa-de-cep": "89518-000 a 89519-999"}
+{"uf": "SC", "id": 652, "localidade": "Mafra", "faixa-de-cep": "89300-001 a 89339-999"}
+{"uf": "SC", "id": 653, "localidade": "Major Gercino", "faixa-de-cep": "88260-000 a 88269-999"}
+{"uf": "SC", "id": 654, "localidade": "Major Vieira", "faixa-de-cep": "89480-000 a 89489-999"}
+{"uf": "SC", "id": 655, "localidade": "Maracaj\u00e1", "faixa-de-cep": "88915-000 a 88919-999"}
+{"uf": "SC", "id": 656, "localidade": "Maravilha", "faixa-de-cep": "89874-000 a 89874-999"}
+{"uf": "SC", "id": 657, "localidade": "Marema", "faixa-de-cep": "89860-000 a 89861-999"}
+{"uf": "SC", "id": 658, "localidade": "Massaranduba", "faixa-de-cep": "89108-000 a 89109-999"}
+{"uf": "SC", "id": 659, "localidade": "Matos Costa", "faixa-de-cep": "89420-000 a 89429-999"}
+{"uf": "SC", "id": 660, "localidade": "Meleiro", "faixa-de-cep": "88920-000 a 88924-999"}
+{"uf": "SC", "id": 661, "localidade": "Mirim Doce", "faixa-de-cep": "89194-000 a 89195-999"}
+{"uf": "SC", "id": 662, "localidade": "Modelo", "faixa-de-cep": "89872-000 a 89872-999"}
+{"uf": "SC", "id": 663, "localidade": "Monda\u00ed", "faixa-de-cep": "89893-000 a 89894-999"}
+{"uf": "SC", "id": 664, "localidade": "Monte Carlo", "faixa-de-cep": "89618-000 a 89619-999"}
+{"uf": "SC", "id": 665, "localidade": "Monte Castelo", "faixa-de-cep": "89380-000 a 89399-999"}
+{"uf": "SC", "id": 666, "localidade": "Morro da Fuma\u00e7a", "faixa-de-cep": "88830-000 a 88839-999"}
+{"uf": "SC", "id": 667, "localidade": "Morro Grande", "faixa-de-cep": "88925-000 a 88929-999"}
+{"uf": "SC", "id": 668, "localidade": "Navegantes", "faixa-de-cep": "88370-001 a 88379-999"}
+{"uf": "SC", "id": 669, "localidade": "Nova Erechim", "faixa-de-cep": "89865-000 a 89867-999"}
+{"uf": "SC", "id": 670, "localidade": "Nova Itaberaba", "faixa-de-cep": "89818-000 a 89818-999"}
+{"uf": "SC", "id": 671, "localidade": "Nova Trento", "faixa-de-cep": "88270-000 a 88294-999"}
+{"uf": "SC", "id": 672, "localidade": "Nova Veneza", "faixa-de-cep": "88865-000 a 88869-999"}
+{"uf": "SC", "id": 673, "localidade": "Novo Horizonte", "faixa-de-cep": "89998-000 a 89999-999"}
+{"uf": "SC", "id": 674, "localidade": "Orleans", "faixa-de-cep": "88870-000 a 88879-999"}
+{"uf": "SC", "id": 675, "localidade": "Otac\u00edlio Costa", "faixa-de-cep": "88540-000 a 88542-999"}
+{"uf": "SC", "id": 676, "localidade": "Ouro", "faixa-de-cep": "89663-000 a 89664-999"}
+{"uf": "SC", "id": 677, "localidade": "Ouro Verde", "faixa-de-cep": "89834-000 a 89834-999"}
+{"uf": "SC", "id": 678, "localidade": "Paial", "faixa-de-cep": "89765-000 a 89769-999"}
+{"uf": "SC", "id": 679, "localidade": "Painel", "faixa-de-cep": "88543-000 a 88544-999"}
+{"uf": "SC", "id": 680, "localidade": "Palho\u00e7a", "faixa-de-cep": "88130-001 a 88139-999"}
+{"uf": "SC", "id": 681, "localidade": "Palma Sola", "faixa-de-cep": "89985-000 a 89989-999"}
+{"uf": "SC", "id": 682, "localidade": "Palmeira", "faixa-de-cep": "88545-000 a 88547-999"}
+{"uf": "SC", "id": 683, "localidade": "Palmitos", "faixa-de-cep": "89887-000 a 89887-999"}
+{"uf": "SC", "id": 684, "localidade": "Papanduva", "faixa-de-cep": "89370-000 a 89379-999"}
+{"uf": "SC", "id": 685, "localidade": "Para\u00edso", "faixa-de-cep": "89906-000 a 89907-999"}
+{"uf": "SC", "id": 686, "localidade": "Passo de Torres", "faixa-de-cep": "88980-000 a 88989-999"}
+{"uf": "SC", "id": 687, "localidade": "Passos Maia", "faixa-de-cep": "89687-000 a 89689-999"}
+{"uf": "SC", "id": 688, "localidade": "Paulo Lopes", "faixa-de-cep": "88490-000 a 88494-999"}
+{"uf": "SC", "id": 689, "localidade": "Pedras Grandes", "faixa-de-cep": "88720-000 a 88729-999"}
+{"uf": "SC", "id": 690, "localidade": "Penha", "faixa-de-cep": "88385-000 a 88389-999"}
+{"uf": "SC", "id": 691, "localidade": "Peritiba", "faixa-de-cep": "89750-000 a 89759-999"}
+{"uf": "SC", "id": 692, "localidade": "Pescaria Brava", "faixa-de-cep": "88798-000 a 88799-999"}
+{"uf": "SC", "id": 693, "localidade": "Petrol\u00e2ndia", "faixa-de-cep": "88430-000 a 88439-999"}
+{"uf": "SC", "id": 694, "localidade": "Pinhalzinho", "faixa-de-cep": "89870-000 a 89870-999"}
+{"uf": "SC", "id": 695, "localidade": "Pinheiro Preto", "faixa-de-cep": "89570-000 a 89579-999"}
+{"uf": "SC", "id": 696, "localidade": "Piratuba", "faixa-de-cep": "89667-000 a 89668-999"}
+{"uf": "SC", "id": 697, "localidade": "Planalto Alegre", "faixa-de-cep": "89882-000 a 89882-999"}
+{"uf": "SC", "id": 698, "localidade": "Pomerode", "faixa-de-cep": "89107-000 a 89107-999"}
+{"uf": "SC", "id": 699, "localidade": "Ponte Alta", "faixa-de-cep": "88550-000 a 88569-999"}
+{"uf": "SC", "id": 700, "localidade": "Ponte Alta do Norte", "faixa-de-cep": "89535-000 a 89539-999"}
+{"uf": "SC", "id": 701, "localidade": "Ponte Serrada", "faixa-de-cep": "89683-000 a 89686-999"}
+{"uf": "SC", "id": 702, "localidade": "Porto Belo", "faixa-de-cep": "88210-000 a 88214-999"}
+{"uf": "SC", "id": 703, "localidade": "Porto Uni\u00e3o", "faixa-de-cep": "89400-000 a 89419-999"}
+{"uf": "SC", "id": 704, "localidade": "Pouso Redondo", "faixa-de-cep": "89172-000 a 89175-999"}
+{"uf": "SC", "id": 705, "localidade": "Praia Grande", "faixa-de-cep": "88990-000 a 88999-999"}
+{"uf": "SC", "id": 706, "localidade": "Presidente Castello Branco", "faixa-de-cep": "89745-000 a 89749-999"}
+{"uf": "SC", "id": 707, "localidade": "Presidente Get\u00falio", "faixa-de-cep": "89150-000 a 89154-999"}
+{"uf": "SC", "id": 708, "localidade": "Presidente Nereu", "faixa-de-cep": "89184-000 a 89185-999"}
+{"uf": "SC", "id": 709, "localidade": "Princesa", "faixa-de-cep": "89935-000 a 89939-999"}
+{"uf": "SC", "id": 710, "localidade": "Quilombo", "faixa-de-cep": "89850-000 a 89853-999"}
+{"uf": "SC", "id": 711, "localidade": "Rancho Queimado", "faixa-de-cep": "88470-000 a 88474-999"}
+{"uf": "SC", "id": 712, "localidade": "Rio das Antas", "faixa-de-cep": "89550-000 a 89557-999"}
+{"uf": "SC", "id": 713, "localidade": "Rio do Campo", "faixa-de-cep": "89198-000 a 89198-999"}
+{"uf": "SC", "id": 714, "localidade": "Rio do Oeste", "faixa-de-cep": "89180-000 a 89181-999"}
+{"uf": "SC", "id": 715, "localidade": "Rio do Sul", "faixa-de-cep": "89160-001 a 89169-999"}
+{"uf": "SC", "id": 716, "localidade": "Rio dos Cedros", "faixa-de-cep": "89121-000 a 89123-999"}
+{"uf": "SC", "id": 717, "localidade": "Rio Fortuna", "faixa-de-cep": "88760-000 a 88762-999"}
+{"uf": "SC", "id": 718, "localidade": "Rio Negrinho", "faixa-de-cep": "89295-000 a 89299-999"}
+{"uf": "SC", "id": 719, "localidade": "Rio Rufino", "faixa-de-cep": "88658-000 a 88679-999"}
+{"uf": "SC", "id": 720, "localidade": "Riqueza", "faixa-de-cep": "89895-000 a 89895-999"}
+{"uf": "SC", "id": 721, "localidade": "Rodeio", "faixa-de-cep": "89136-000 a 89137-999"}
+{"uf": "SC", "id": 722, "localidade": "Romel\u00e2ndia", "faixa-de-cep": "89908-000 a 89908-999"}
+{"uf": "SC", "id": 723, "localidade": "Salete", "faixa-de-cep": "89196-000 a 89197-999"}
+{"uf": "SC", "id": 724, "localidade": "Saltinho", "faixa-de-cep": "89981-000 a 89981-999"}
+{"uf": "SC", "id": 725, "localidade": "Salto Veloso", "faixa-de-cep": "89595-000 a 89599-999"}
+{"uf": "SC", "id": 726, "localidade": "Sang\u00e3o", "faixa-de-cep": "88717-000 a 88719-999"}
+{"uf": "SC", "id": 727, "localidade": "Santa Cec\u00edlia", "faixa-de-cep": "89540-000 a 89544-999"}
+{"uf": "SC", "id": 728, "localidade": "Santa Helena", "faixa-de-cep": "89915-000 a 89919-999"}
+{"uf": "SC", "id": 729, "localidade": "Santa Rosa de Lima", "faixa-de-cep": "88763-000 a 88764-999"}
+{"uf": "SC", "id": 730, "localidade": "Santa Rosa do Sul", "faixa-de-cep": "88965-000 a 88969-999"}
+{"uf": "SC", "id": 731, "localidade": "Santa Terezinha", "faixa-de-cep": "89199-000 a 89199-999"}
+{"uf": "SC", "id": 732, "localidade": "Santa Terezinha do Progresso", "faixa-de-cep": "89983-000 a 89984-999"}
+{"uf": "SC", "id": 733, "localidade": "Santiago do Sul", "faixa-de-cep": "89854-000 a 89854-999"}
+{"uf": "SC", "id": 734, "localidade": "Santo Amaro da Imperatriz", "faixa-de-cep": "88140-000 a 88149-999"}
+{"uf": "SC", "id": 735, "localidade": "S\u00e3o Bento do Sul", "faixa-de-cep": "89280-001 a 89293-999"}
+{"uf": "SC", "id": 736, "localidade": "S\u00e3o Bernardino", "faixa-de-cep": "89982-000 a 89982-999"}
+{"uf": "SC", "id": 737, "localidade": "S\u00e3o Bonif\u00e1cio", "faixa-de-cep": "88485-000 a 88489-999"}
+{"uf": "SC", "id": 738, "localidade": "S\u00e3o Carlos", "faixa-de-cep": "89885-000 a 89885-999"}
+{"uf": "SC", "id": 739, "localidade": "S\u00e3o Crist\u00f3v\u00e3o do Sul", "faixa-de-cep": "89533-000 a 89534-999"}
+{"uf": "SC", "id": 740, "localidade": "S\u00e3o Domingos", "faixa-de-cep": "89835-000 a 89836-999"}
+{"uf": "SC", "id": 741, "localidade": "S\u00e3o Francisco do Sul", "faixa-de-cep": "89240-000 a 89244-999"}
+{"uf": "SC", "id": 742, "localidade": "S\u00e3o Jo\u00e3o Batista", "faixa-de-cep": "88240-000 a 88259-999"}
+{"uf": "SC", "id": 743, "localidade": "S\u00e3o Jo\u00e3o do Itaperi\u00fa", "faixa-de-cep": "88395-000 a 88399-999"}
+{"uf": "SC", "id": 744, "localidade": "S\u00e3o Jo\u00e3o do Oeste", "faixa-de-cep": "89897-000 a 89897-999"}
+{"uf": "SC", "id": 745, "localidade": "S\u00e3o Jo\u00e3o do Sul", "faixa-de-cep": "88970-000 a 88979-999"}
+{"uf": "SC", "id": 746, "localidade": "S\u00e3o Joaquim", "faixa-de-cep": "88600-000 a 88624-999"}
+{"uf": "SC", "id": 747, "localidade": "S\u00e3o Jos\u00e9", "faixa-de-cep": "88100-001 a 88124-999"}
+{"uf": "SC", "id": 748, "localidade": "S\u00e3o Jos\u00e9 do Cedro", "faixa-de-cep": "89930-000 a 89934-999"}
+{"uf": "SC", "id": 749, "localidade": "S\u00e3o Jos\u00e9 do Cerrito", "faixa-de-cep": "88570-000 a 88579-999"}
+{"uf": "SC", "id": 750, "localidade": "S\u00e3o Louren\u00e7o do Oeste", "faixa-de-cep": "89990-000 a 89997-999"}
+{"uf": "SC", "id": 751, "localidade": "S\u00e3o Ludgero", "faixa-de-cep": "88730-000 a 88734-999"}
+{"uf": "SC", "id": 752, "localidade": "S\u00e3o Martinho", "faixa-de-cep": "88765-000 a 88769-999"}
+{"uf": "SC", "id": 753, "localidade": "S\u00e3o Miguel da Boa Vista", "faixa-de-cep": "89879-000 a 89879-999"}
+{"uf": "SC", "id": 754, "localidade": "S\u00e3o Miguel do Oeste", "faixa-de-cep": "89900-000 a 89904-999"}
+{"uf": "SC", "id": 755, "localidade": "S\u00e3o Pedro de Alc\u00e2ntara", "faixa-de-cep": "88125-000 a 88129-999"}
+{"uf": "SC", "id": 756, "localidade": "Saudades", "faixa-de-cep": "89868-000 a 89869-999"}
+{"uf": "SC", "id": 757, "localidade": "Schroeder", "faixa-de-cep": "89275-000 a 89277-999"}
+{"uf": "SC", "id": 758, "localidade": "Seara", "faixa-de-cep": "89770-000 a 89777-999"}
+{"uf": "SC", "id": 759, "localidade": "Serra Alta", "faixa-de-cep": "89871-000 a 89871-999"}
+{"uf": "SC", "id": 760, "localidade": "Sider\u00f3polis", "faixa-de-cep": "88860-000 a 88861-999"}
+{"uf": "SC", "id": 761, "localidade": "Sombrio", "faixa-de-cep": "88960-000 a 88964-999"}
+{"uf": "SC", "id": 762, "localidade": "Sul Brasil", "faixa-de-cep": "89855-000 a 89855-999"}
+{"uf": "SC", "id": 763, "localidade": "Tai\u00f3", "faixa-de-cep": "89190-000 a 89193-999"}
+{"uf": "SC", "id": 764, "localidade": "Tangar\u00e1", "faixa-de-cep": "89642-000 a 89649-999"}
+{"uf": "SC", "id": 765, "localidade": "Tigrinhos", "faixa-de-cep": "89875-000 a 89877-999"}
+{"uf": "SC", "id": 766, "localidade": "Tijucas", "faixa-de-cep": "88200-000 a 88209-999"}
+{"uf": "SC", "id": 767, "localidade": "Timb\u00e9 do Sul", "faixa-de-cep": "88940-000 a 88949-999"}
+{"uf": "SC", "id": 768, "localidade": "Timb\u00f3", "faixa-de-cep": "89120-000 a 89120-999"}
+{"uf": "SC", "id": 769, "localidade": "Timb\u00f3 Grande", "faixa-de-cep": "89545-000 a 89549-999"}
+{"uf": "SC", "id": 770, "localidade": "Tr\u00eas Barras", "faixa-de-cep": "89490-000 a 89499-999"}
+{"uf": "SC", "id": 771, "localidade": "Treviso", "faixa-de-cep": "88862-000 a 88864-999"}
+{"uf": "SC", "id": 772, "localidade": "Treze de Maio", "faixa-de-cep": "88710-000 a 88714-999"}
+{"uf": "SC", "id": 773, "localidade": "Treze T\u00edlias", "faixa-de-cep": "89650-000 a 89651-999"}
+{"uf": "SC", "id": 774, "localidade": "Trombudo Central", "faixa-de-cep": "89176-000 a 89177-999"}
+{"uf": "SC", "id": 775, "localidade": "Tubar\u00e3o", "faixa-de-cep": "88700-001 a 88709-999"}
+{"uf": "SC", "id": 776, "localidade": "Tun\u00e1polis", "faixa-de-cep": "89898-000 a 89898-999"}
+{"uf": "SC", "id": 777, "localidade": "Turvo", "faixa-de-cep": "88930-000 a 88934-999"}
+{"uf": "SC", "id": 778, "localidade": "Uni\u00e3o do Oeste", "faixa-de-cep": "89845-000 a 89847-999"}
+{"uf": "SC", "id": 779, "localidade": "Urubici", "faixa-de-cep": "88650-000 a 88657-999"}
+{"uf": "SC", "id": 780, "localidade": "Urupema", "faixa-de-cep": "88625-000 a 88639-999"}
+{"uf": "SC", "id": 781, "localidade": "Urussanga", "faixa-de-cep": "88840-000 a 88844-999"}
+{"uf": "SC", "id": 782, "localidade": "Varge\u00e3o", "faixa-de-cep": "89690-000 a 89693-999"}
+{"uf": "SC", "id": 783, "localidade": "Vargem", "faixa-de-cep": "89638-000 a 89639-999"}
+{"uf": "SC", "id": 784, "localidade": "Vargem Bonita", "faixa-de-cep": "89675-000 a 89676-999"}
+{"uf": "SC", "id": 785, "localidade": "Vidal Ramos", "faixa-de-cep": "88443-000 a 88444-999"}
+{"uf": "SC", "id": 786, "localidade": "Videira", "faixa-de-cep": "89560-001 a 89569-999"}
+{"uf": "SC", "id": 787, "localidade": "Vitor Meireles", "faixa-de-cep": "89148-000 a 89149-999"}
+{"uf": "SC", "id": 788, "localidade": "Witmarsum", "faixa-de-cep": "89157-000 a 89159-999"}
+{"uf": "SC", "id": 789, "localidade": "Xanxer\u00ea", "faixa-de-cep": "89820-000 a 89823-999"}
+{"uf": "SC", "id": 790, "localidade": "Xavantina", "faixa-de-cep": "89780-000 a 89789-999"}
+{"uf": "SC", "id": 791, "localidade": "Xaxim", "faixa-de-cep": "89825-000 a 89827-999"}
+{"uf": "SC", "id": 792, "localidade": "Zort\u00e9a", "faixa-de-cep": "89633-000 a 89633-999"}
