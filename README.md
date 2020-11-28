@@ -4,5 +4,7 @@
  ## How to use the app
   1. First you need to download the folder nameb by "app"
   2. Open 'Interfacee' than will open this
+  <img alt="IMG1" title="IMG1"  src="IMG1.png">
+<hr>
   
   
