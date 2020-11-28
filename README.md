@@ -21,3 +21,9 @@
 <hr>
 
  ## How to use with IDLE
+ 
+ 
+ ```json
+{"uf": "RS", "id": 1, "localidade": "Acegu\u00e1", "faixa-de-cep": "96445-000 a 96449-999"}
+{"uf": "RS", "id": 2, "localidade": "\u00c1gua Santa", "faixa-de-cep": "99965-000 a 99969-999"}
+```
