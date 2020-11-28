@@ -6,5 +6,17 @@
   2. Open 'Interfacee' than will open this
   <img alt="IMG1" title="IMG1"  src="IMG1.png">
 <hr>
-  
-  
+  3. Chose the UF's you want to get data
+  <img alt="IMG2" title="IMG2"  src="IMG2.png">
+<hr>
+  4. Will apper this, but only ignore
+  <img alt="IMG3" title="IMG3"  src="IMG3.png">
+<hr>
+  5. Now the dates are being collected
+  <img alt="IMG4" title="IMG4"  src="IMG4.png">
+<hr>
+  6. When appear "JSON formado." mean that the file was created and you can see in app folder
+  <img alt="IMG5" title="IMG5"  src="IMG5.png">
+<hr>
+<img alt="IMG6" title="IMG6"  src="IMG6.png">
+<hr>
