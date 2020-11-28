@@ -30,8 +30,3 @@
    ```
  
 <hr>
-
- ## How to use with IDLE
- 
- 
-
